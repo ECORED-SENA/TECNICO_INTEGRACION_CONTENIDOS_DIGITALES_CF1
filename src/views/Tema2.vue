@@ -46,7 +46,7 @@
     p.mb-5 Igualmente, los teóricos del tema consideran diversos aspectos que componen el lenguaje audiovisual, los cuales se pueden apreciar en el siguiente video.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/L2Q2_d4TyVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/nKSKVRK9-Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Las reglas para combinar los colores de forma efectiva
     p.mb-5 Al tratarse de un tema extenso, técnico y con muchos elementos, es necesario consultar el siguiente documento donde se encuentran todos los elementos que van a permitir la construcción de una producción audiovisual. 
       br

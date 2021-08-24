@@ -250,7 +250,6 @@
         p representa la intensidad o palidez de un tono; tiene que ver con la pureza del color respecto del gris. Mientras más gris, menos saturado es.
     p.mb-5 Ahora bien, el uso del color en el diseño está basado en la selección correcta de los mismos  con el objetivo de lograr en el receptor, un efecto determinado. Este proceso contempla varios aspectos que se tratarán a continuación:
     .psicologia-color.d-flex.mb-5
-      //todo! SOLUCIONAR PROBLEMA DEL RESPONSIVE Y HOVER
       .cuadros-p.cuadros-p--rojo.p-5.d-flex
         .cuadros-p_titulo.m-auto
           h6.text-white  Rojo
@@ -393,7 +392,7 @@
 
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/img.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/img143.jpg', alt='Texto que describa la imagen')
       .tarjeta.bg--1-claro.p-4(titulo="Ley de horizonte")
         .row
           .col-xl-6
@@ -401,7 +400,7 @@
             p Proviene de la ley de tercios. Consiste en dividir la imagen en tres franjas horizontales iguales y definir qué parte de la imagen se desea resaltar, tal como se presenta en la imagen de ejemplo.
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/img.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/img135.jpg', alt='Texto que describa la imagen')
       .tarjeta.bg--1-claro.p-4(titulo="Leyes de la Gestalt")
         .row
           .col-xl-6
@@ -410,7 +409,7 @@
             P.ms-3 En la Alemania de los años 20, un equipo de psicólogos desarrolló una serie de teorías sobre la percepción visual humana, planteando el principio básico de la organización perceptual: el todo es más que la suma de las partes. Las leyes de la Gestalt son unas reglas que explican el origen de las percepciones a partir de los estímulos. Estas leyes se apoyan en test y resultados estadísticos donde las interpretaciones, si bien no son unívocas, sugieren tendencias fuertes (Pereiro, 2007, p.44)
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/img.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/img136.jpg', alt='Texto que describa la imagen')
       .tarjeta.bg--1-claro.p-4(titulo="Ley de la figura-fondo")
         .row
           .col-xl-6
@@ -418,7 +417,7 @@
             p Ley de la figura-fondo es la más general. Parte del hecho de que en el proceso perceptivo se tiende a focalizar la atención sobre un objeto o determinado grupo de objetos (figura) destacándose los objetos que los envuelven (fondo). Sin embargo, figura y fondo pueden funcionar respectivamente. En este caso se habla de una relación reversible o ambigua.
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/img.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/img137.jpg', alt='Texto que describa la imagen')
       .tarjeta.bg--1-claro.p-4(titulo="Ley de la buena forma")
         .row
           .col-xl-6
@@ -426,7 +425,7 @@
             p También se le conoce como pregnancia, “se basa en la observación ya que en el cerebro existe una tendencia natural a la simplificación, la simetría, el equilibrio, el orden, a organizar la información de la manera más simple y ordenada posible” (Moreno, 2003, p.236).
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/img.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/img138.jpg', alt='Texto que describa la imagen')
       .tarjeta.bg--1-claro.p-4(titulo="Ley de cierre")
         .row
           .col-xl-6
@@ -434,7 +433,7 @@
             p El ser humano tiende a completar las formas de acuerdo con el todo. Cuando un objeto está incompleto o un espacio no está completamente cerrado, el cerebro percibe como completa la figura que aparece realmente incompleta.
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/img.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/img139.jpg', alt='Texto que describa la imagen')
       .tarjeta.bg--1-claro.p-4(titulo="Ley del contraste")
         .row
           .col-xl-6
@@ -442,7 +441,7 @@
             p A partir del principio de que no se percibe una cosa por sí misma sino en comparación con otra, se tiende a buscar un elemento que sobresalga del resto. El contraste se puede dar por color, forma o tamaño, entre otros.
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/img.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/img140.jpg', alt='Texto que describa la imagen')
       .tarjeta.bg--1-claro.p-4(titulo="Ley de la proximidad")
         .row
           .col-xl-6
@@ -450,7 +449,7 @@
             p La cercanía juega un papel clave en la percepción cuando se tiende a ver como una unidad los elementos más cercanos o próximos en el espacio. Por ejemplo, el logo de aire acondicionado de la empresa rusa «Aeroprof».
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/img.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/img141.jpg', alt='Texto que describa la imagen')
       .tarjeta.bg--1-claro.p-4(titulo="Ley de la semejanza")
         .row
           .col-xl-6
@@ -458,7 +457,7 @@
             p Cuando los elementos se parecen entre sí o son iguales se entienden como un conjunto, hay una tendencia natural a poner en relación los elementos parecidos o iguales. Pueden ser similares en forma, color, dimensión, ubicación, etc. 
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/img.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/img142.jpg', alt='Texto que describa la imagen')
     .row.mb-5
       .col-lg-6
         h4 Elementos del diseño gráfico
@@ -669,8 +668,8 @@
         | En el siguiente video es posible ampliar la comprensión sobre el concepto de diseño digital.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video  
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4nRHvBi9afc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Introducción al Diseño Digital  
     h3 El diseño web
     p.mb-5 Es un área del diseño digital que se encarga de desarrollar interfaces digitales, sitios y aplicaciones web, utilizando lenguajes específicos como HTML.
     .row.mb-5.justify-content-center(data-aos="slide-down")
@@ -1036,9 +1035,9 @@ export default {
   background-image: url('../assets/curso/img121.svg')
   width: 100%
   background-size: auto
-  background-position: center
+  background-position: bottom
   background-repeat: no-repeat
-  min-height: 1000px
+  min-height: 700px
 .tarjeta1
   border-radius: 20px
   position: relative
