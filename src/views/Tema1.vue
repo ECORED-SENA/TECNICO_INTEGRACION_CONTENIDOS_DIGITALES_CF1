@@ -105,6 +105,82 @@
     
     h3 Principios de la composición
     //todo! PLANTEAR LA INFOGRAFÍA 
+    TabsC.color-acento-contenido.mb-5
+      .py-3.py-md-4(titulo="Variedad").vineta_fondo
+        .row.justify-content-end
+          .col-md-8.mb-4.mb-md-0.justify-content-end
+            .vineta.p-5.mb-5
+              h4 Variedad:
+              p Se refiere a los distintos elementos (forma, color, ilustración, fotografía, etc.) que incorpora el diseñador en una composición con el fin de captar el interés mediante el uso de elementos contrastantes.
+      .py-3.py-md-4(titulo="Jerarquía").vineta_fondo
+        .row.justify-content-end
+          .col-md-8.mb-4.mb-md-0.justify-content-end
+            .vineta.px-5.py-3
+              h4 Jerarquía:
+              p tiene que ver con el tamaño (de los elementos y su relación con el resto), el color y la disposición de elementos para  generar una condición de subordinación. Tiene tres subtipos:
+              .row.align-items-center
+                .col-lg-1: img(src='@/assets/curso/img123.svg' style='width: 46px')
+                .col-lg-10
+                  p 
+                    b Alineación: 
+                    | los elementos dispuestos a la derecha o en el margen inferior tienen mayor fuerza visual que los que se ubican a la izquierda y/o en la parte superior ya que dan una sensación más liviana. 
+              .row.align-items-center
+                .col-lg-1: img(src='@/assets/curso/img124.svg' style='width: 46px')
+                .col-lg-10
+                  p 
+                    b Color: 
+                    |  los colores vivos tienen más fuerza y un mayor efecto visual que los colores pastel, pálidos y tenues.
+
+              .row.align-items-center
+                .col-lg-1: img(src='@/assets/curso/img125.svg' style='width: 46px')
+                .col-lg-10
+                  p 
+                    b Escala:
+                    | existe cuando hay relación matemática (proporción) entre las dimensiones de los distintos elementos, y se puede representar mediante un número o una fórmula.
+
+      .py-3.py-md-4(titulo="Unidad").vineta_fondo
+        .row.justify-content-end
+          .col-md-8.mb-4.mb-md-0.justify-content-end
+            .vineta.p-5.mb-5
+              h4 Unidad:
+              p el valor de la unidad radica en que cada elemento se organiza, se relaciona y ejerce fuerza y tensión, representando un solo elemento. La unidad se puede dar por continuidad, por repetición, por continuación o por proximidad.
+      .py-3.py-md-4(titulo="Contraste").vineta_fondo
+        .row.justify-content-end
+          .col-md-8.mb-4.mb-md-0.justify-content-end
+            .vineta.p-5.mb-5
+              h4 Contraste: 
+              p es  la distinción entre uno o varios elementos para marcar una diferencia que permita destacar lo que se considera importante. El contraste se puede generar por color, forma, tamaño y tipografía: p.ej. las formas angulares y alargadas amplían el campo de visión y proporcionan un efecto de magnificencia, mientras que las cortas transmiten humildad.
+      .py-3.py-md-4(titulo="Ritmo").vineta_fondo
+        .row.justify-content-end
+          .col-md-8.mb-4.mb-md-0.justify-content-end
+            .vineta.p-5
+              h4 Ritmo:
+              p consiste en la repetición regular de un patrón con el fin de conseguir armonía en la composición. El ritmo se puede dar de forma regular o de forma progresiva
+      .py-3.py-md-4(titulo="Equilibrio").vineta_fondo
+        .row.justify-content-end
+          .col-md-8.mb-4.mb-md-0.justify-content-end
+            .vineta.p-5
+              h4 Equilibrio:
+              p hace referencia a la armonía que hay entre los elementos, de tal forma que nada domine en el plano. Existen dos tipos de equilibrio: simétrico y asimétrico.
+              .row.align-items-center
+                .col-lg-1: img(src='@/assets/curso/img127.svg' style='width: 46px')
+                .col-lg-10
+                  p 
+                    b Simetría: 
+                    | a partir de un eje o un plano se disponen algunos elementos en relación exacta de forma, tamaño y posición de modo que formen partes iguales, pero contrapuestas.
+              .row.align-items-center
+                .col-lg-1: img(src='@/assets/curso/img128.svg' style='width: 46px')
+                .col-lg-10
+                  p 
+                    b Asimetría: 
+                    |  es una composición en la que una parte pesa más que las otras. Suelen ser composiciones llamativas y pueden incluso ofrecer mejores resultados que las simétricas. Existen tres tipos: de reflexión, de rotación y de traslación.
+
+      .py-3.py-md-4(titulo="Proporción áurea").vineta_fondo
+        .row.justify-content-end
+          .col-md-8.mb-4.mb-md-0.justify-content-end
+            .vineta.p-5
+              h4 Proporción áurea:
+              p también conocida como el número áureo o la divina proporción, corresponde al número 1.618. Este número surge de la Sucesión de Fibonacci, en la que cada número es la suma de los dos anteriores y que se relaciona con la belleza o la naturaleza, y se ha  utilizado en arte y pintura por generaciones. El uso de este principio garantiza una proporción más armoniosa y más agradable al ojo.
 
     p.mb-5 Cada uno de los principios anteriores tiene su propia relevancia en la composición, y se estudian con el objetivo de que, usados en conjunto, consigan transmitir con éxito el mensaje acordado.
     h3 b. La teoría del color
@@ -239,10 +315,61 @@
       h5.fw-normal 
         b Figura 4  
         | Fórmulas básicas de combinación
-
+    
 
 
     //TODO! slyder personalizado 
+
+    .tarjeta1.color-verde.bfaf.p-3(data-aos="flip-up").mb-5
+      SlyderA.px-5
+        .row.m-5.align-items-center
+          .col-md-3
+            figure
+              img(src='@/assets/curso/img129.svg', alt='Imagen de la tarjeta')
+          .col-md-9
+            h5 Complementarios:
+            p son opuestos uno al otro en la rueda. Por ejemplo: azul y naranja, o el clásico rojo y verde.  
+              br
+              br
+              |Para evitar que la paleta te quede muy simple, puedes agregar tonos más claros, oscuros o con poca saturación.
+        .row.m-5.align-items-center
+          .col-md-3
+            figure
+              img(src='@/assets/curso/img130.svg', alt='Imagen de la tarjeta')
+          .col-md-9
+            h5 Tríada:
+            p se forma un triángulo en el círculo cromático y se usan los colores que están en cada esquina. 
+              br
+              br
+              |Estas combinaciones tienden a ser bastante impactantes, particularmente con colores primarios y secundarios, así que piénsalo bien antes de elegirlas.
+        .row.m-5.align-items-center
+          .col-md-3
+            figure
+              img(src='@/assets/curso/img131.svg', alt='Imagen de la tarjeta')
+          .col-md-9
+            h5 Análoga: 
+            p se eligen los colores que se siguen uno al otro en el círculo cromático, como los rojos y anaranjados, o azules y verdes.
+        .row.m-5.align-items-center
+          .col-md-3
+            figure
+              img(src='@/assets/curso/img132.svg', alt='Imagen de la tarjeta')
+          .col-md-9
+            h5 Complementarios divididos: 
+            p se utilizan los colores que están junto al color complementario. Esto te da el mismo nivel de contraste, pero más opciones de tonos y mejores resultados más interesantes.
+        .row.m-5.align-items-center
+          .col-md-3
+            figure
+              img(src='@/assets/curso/img133.svg', alt='Imagen de la tarjeta')
+          .col-md-9
+            h5 Tetraédrica: 
+            p forma un rectángulo en el círculo, por lo cual no usa uno, sino dos pares de colores complementarios. Esta fórmula funciona mejor si dejas un color como dominante y los otros tres como auxiliares.
+        .row.m-5.align-items-center
+          .col-md-3
+            figure
+              img(src='@/assets/curso/img134.svg', alt='Imagen de la tarjeta')
+          .col-md-9
+            h5 Monocromática: 
+            p se utiliza un solo color. Modificando la saturación y brillo se crean variaciones en el tono y se tiene la garantía de que combinarán.
 
 
     .titulo-color.mb-4
@@ -768,7 +895,7 @@
             p.mb-0 Las nuevas ideas pueden surgir experimentando con herramientas y métodos actuales facilitados por la tecnología.
     p.mb-5 La velocidad en la que avanza la tecnología hace compleja la permanente actualización de las herramientas para todo lo que se refiere al diseño de contenidos para Internet. 
     .col-lg-6.mb-5
-      a.anexo.mb-4.mb-lg-0(href="Visita la siguiente página y estudia las 10 herramientas fundamentales para el diseñador digital. " target="_blank")
+      a.anexo.mb-4.mb-lg-0(href="https://graffica.info/herramientas-para-el-disenador-digital" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-link.svg")
         .anexo__texto
@@ -887,4 +1014,52 @@ export default {
 .affter2
   .bloque-texto-c:after
     background-color: $color-secundario
+.vineta
+  position: relative
+  background-color: #DDFFA7
+  border-radius: 20px
+  border: 4px solid #7E9EA1
+  bottom: 0
+  &:after
+    content: ""
+    position: absolute
+    width: 150px
+    height: 150px
+    z-index: 99
+    background-image: url("../assets/curso/img126.svg")
+    background-size: auto
+    background-position: center
+    background-repeat: no-repeat
+    bottom: 0
+    transform: translateY(78%)
+.vineta_fondo
+  background-image: url('../assets/curso/img121.svg')
+  width: 100%
+  background-size: auto
+  background-position: center
+  background-repeat: no-repeat
+  min-height: 1000px
+.tarjeta1
+  border-radius: 20px
+  position: relative
+  &:before
+    content: ""
+    position: absolute
+    height: 100%
+    width: 85px
+    top: 0
+    left: 0
+    border-radius: 20px 0px 0px 20px
+    background-color: $color-primario
+  &:after
+    content: ""
+    position: absolute
+    height: 100%
+    width: 85px
+    top: 0
+    right: 0
+    border-radius: 0px 20px 20px 0px
+    background-color: $color-primario
+.color-verde
+  background-color: $color-secundario
 </style>
