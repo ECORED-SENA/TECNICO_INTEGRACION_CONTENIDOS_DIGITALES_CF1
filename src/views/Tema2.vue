@@ -47,7 +47,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/nKSKVRK9-Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Las reglas para combinar los colores de forma efectiva
+      figcaption Video: Lenguaje Audiovisual
     p.mb-5 Al tratarse de un tema extenso, técnico y con muchos elementos, es necesario consultar el siguiente documento donde se encuentran todos los elementos que van a permitir la construcción de una producción audiovisual. 
       br
       br
@@ -55,7 +55,7 @@
       b “Breve introducción al lenguaje audiovisual” 
       |está editado por la Junta de Castilla y León (España) y detalla de manera suficiente, todos los componentes del lenguaje audiovisual. A partir de la revisión del documento se propondrán actividades prácticas que permitan una mejor comprensión.
     .col-lg-6.mb-5
-      a.anexo.mb-4.mb-lg-0(href="http://www.educa.jcyl.es/educacyl/cm/gallery/leer-la-imagen/6_P_Realidad_o_ficcion_El_vendedor_de_humo/assets/anexo.-breve-introduccion-al-lenguaje-audiovisual.pdf" target="_blank")
+      a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/introduccion_lenguaje_audiovisual.pdf' )" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-link.svg")
         .anexo__texto
@@ -68,7 +68,7 @@
         p Ahora bien, cuando se habla de géneros en el medio audiovisual, normalmente se refiere a la ficción, al publicitario, el docudrama, el informativo y el de entretenimiento. 
           br
           br
-          |El formato es la manera de aplicar el género. Cuando se determina el género se debe también decidir el tipo de formato que más le convenga al contenido audiovisual; es aquí cuando se elige entre en una docuserie, un reality show, un reportaje, o la tradicional novela, entre otros formatos, que nacen con las nuevas necesidades actuales del consumidor. 
+          |El formato es la manera de aplicar el género. Cuando se determina el género se debe también decidir el tipo de formato que más le convenga al contenido audiovisual; es aquí cuando se elige entre una docuserie, un <i>reality show</i>, un reportaje, o la tradicional novela, entre otros formatos, que nacen con las nuevas necesidades actuales del consumidor. 
           br
           br
           |La industria audiovisual actual se desarrolla a una velocidad sin igual y, atendiendo a la demanda de la audiencia, crea y se reinventa con nuevos productos híbridos que deben irse incorporando por los nuevos estudios del lenguaje audiovisual, sin embargo  aquí se presenta una breve clasificación de ellos.
@@ -104,7 +104,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Género informativo 
-            p Tienen como referencia hechos que han sucedido realmente, podríamos pensar que que es también un documental. Entre los formatos de este género podemos encontrar el informativo diario clásico televisivo y de canales digitales.
+            p Tienen como referencia hechos que han sucedido realmente, podríamos pensar que es también un documental. Entre los formatos de este género podemos encontrar el informativo diario clásico televisivo y de canales digitales.
         
           .col-md-6
             figure
@@ -113,74 +113,74 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Género de entretenimiento
-            p Tiene que ver con  la competición, la exhibición o el humor. Se suele adoptar formatos como los concursos de azar como los <i>quiz shows o games shows</i>,  también el humor como <i>sketches</i>, comedia en vivo o <i>stand-up comedy</i>, vídeos caseros por plataformas como <i>kwai o tic toc</i>, o  de acontecimientos que se transmiten en directo ya sea por canales tradicionales o digitales.
+            p Tiene que ver con  la competición, la exhibición o el humor. Se suele adoptar formatos como los concursos de azar como los <i>quiz shows o games shows</i>,  también el humor como <i>sketches</i>, comedia en vivo o <i>stand-up comedy</i>, videos caseros por plataformas como <i>Kwai o TikTok</i>, o  de acontecimientos que se transmiten en directo ya sea por canales tradicionales o digitales.
         
           .col-md-6
             figure
               img(src='@/assets/curso/img74.svg' alt='Imagen')
-    p.mb-5 De igual manera, hoy en día existen diversos formatos audiovisuales para Internet entre los que se destaca el video. Sin embargo, hay un sin número de formatos más que posibilitan la entrega de contenidos y que hacen parte de las estrategias digitales. Algunos de los más relevantes se exponen en la siguiente figura.
+    p.mb-5 De igual manera, hoy en día existen diversos formatos audiovisuales para <i>Internet</i> entre los que se destaca el video. Sin embargo, hay un sin número de formatos más que posibilitan la entrega de contenidos y que hacen parte de las estrategias digitales. Algunos de los más relevantes se exponen en la siguiente figura.
     .titulo-sexto.color-acento-contenido
       h5.fw-normal 
           b Figura 8 
-          | Formatos audiovisuales para Internet
+          | Formatos audiovisuales para <i>Internet</i>
     .row.mb-5(data-aos="slide-down")
       .col-lg-6
         .tarjeta.bg--gris3.p-4.mb-3
           .row
-            .col-lg-2.col-md-3.col-sm-4.col-xs-6: img(src='@/assets/curso/img75.svg')
+            .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img75.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 Videos: 
-              p.mb-0 según informe de Cisco, ya son el formato de contenido más consumido de Internet y serán aún más. Hasta 2021, la expectativa es que representan el 82% del tráfico global.
+              p.mb-0 Según informe de Cisco, ya son el formato de contenido más consumido de <i>Internet</i> y serán aún más. Hasta 2021, la expectativa es que representan el 82% del tráfico global.
         .tarjeta.bg--gris3.p-4.mb-3
           .row
-            .col-lg-2.col-md-3.col-sm-4.col-xs-6: img(src='@/assets/curso/img76.svg')
+            .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img76.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 <i>Webinars:</i> 
-              p.mb-0 son conferencias, charlas o <i>chats</i> realizados <i>online</i> y en directo para un grupo de espectadores virtuales. 
+              p.mb-0 Son conferencias, charlas o <i>chats</i> realizados <i>online</i> y en directo para un grupo de espectadores virtuales. 
         .tarjeta.bg--gris3.p-4.mb-3
           .row
-            .col-lg-2.col-md-3.col-sm-4.col-xs-6: img(src='@/assets/curso/img77.svg')
+            .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img77.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 <i>Gifs</i> animados: 
-              p.mb-0 se utilizan para el humor, pero, a diferencia de los memes, pueden pasar más información valiosa.
+              p.mb-0 Se utilizan para el humor, pero, a diferencia de los memes, pueden pasar más información valiosa.
         .tarjeta.bg--gris3.p-4.mb-3
           .row
-            .col-lg-2.col-md-3.col-sm-4.col-xs-6: img(src='@/assets/curso/img78.svg')
+            .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img78.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 <i>Slides:</i>
-              p.mb-0 útiles para presentación en eventos, en <i>Slideshare</i> o en <i>webinars</i>
+              p.mb-0 Útiles para presentación en eventos, en <i>Slideshare</i> o en <i>webinars</i>.
         .tarjeta.bg--gris3.p-4.mb-3
           .row
-            .col-lg-2.col-md-3.col-sm-4.col-xs-6: img(src='@/assets/curso/img79.svg')
+            .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img79.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 Películas:
-              p.mb-0 es el formato más utilizado en la historia de la publicidad y del <i>marketing</i>. Obviamente, no estamos hablando de largometrajes, sino de los viejos, queridos y actuales comerciales.
+              p.mb-0 Es el formato más utilizado en la historia de la publicidad y del <i>marketing</i>. Obviamente, no estamos hablando de largometrajes, sino de los viejos, queridos y actuales comerciales.
 
       .col-lg-6
         .tarjeta.bg--gris3.p-4.mb-3
           .row
-            .col-lg-2.col-md-3.col-sm-4.col-xs-6: img(src='@/assets/curso/img80.svg')
+            .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img80.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
-              h4 <i>Blogsposts:</i>:
+              h4 <i>Blogsposts</i>:
               p.mb-0 Este es el formato más utilizado en las estrategias da producción de contenido que buscan <i>engagement</i>.
         .tarjeta.bg--gris3.p-4.mb-3
           .row
-            .col-lg-2.col-md-3.col-sm-4.col-xs-6: img(src='@/assets/curso/img81.svg')
+            .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img81.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 Memes en video:
-              p.mb-0 son formatos más simples y que difícilmente educan al mercado o convencen a alguien a una conversión.
+              p.mb-0 Son formatos más simples y que difícilmente educan al mercado o convencen a alguien a una conversión.
         .tarjeta.bg--gris3.p-4.mb-3
           .row
-            .col-lg-2.col-md-3.col-sm-4.col-xs-6: img(src='@/assets/curso/img82.svg')
+            .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img82.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 Aplicaciones: 
-              p.mb-0 herramientas que pretenden facilitar la vida de los usuarios.
+              p.mb-0 Herramientas que pretenden facilitar la vida de los usuarios.
         .tarjeta.bg--gris3.p-4.mb-3
           .row
-            .col-lg-2.col-md-3.col-sm-4.col-xs-6: img(src='@/assets/curso/img83.svg')
+            .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img83.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 Juegos:
-              p.mb-0 es el formato más dinámico y participativo de la lista.
+              p.mb-0 Es el formato más dinámico y participativo de la lista.
 
 </template>
 

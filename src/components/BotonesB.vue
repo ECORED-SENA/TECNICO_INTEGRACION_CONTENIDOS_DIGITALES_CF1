@@ -47,7 +47,7 @@ export default {
         pos_y: '2%',
         titulo: 'Storyboard de miniaturas',
         texto:
-          'Suele ser pequeño y reunido en una sola hoja de papel. se dibuja mucho más rápido que el resto de variedades de storyboard y utiliza garabatos en el panel de acciones, así como bocetos antes de crear los detalles.',
+          'Suele ser pequeño y reunido en una sola hoja de papel. Se dibuja mucho más rápido que el resto de variedades de storyboard y utiliza garabatos en el panel de acciones, así como bocetos antes de crear los detalles.',
       },
       {
         img: require('@/assets/curso/img91.svg'),
@@ -98,7 +98,7 @@ export default {
     bottom: 100%
     left: 50%
     background-color: #E5EBEC
-    width: 500px
+    max-width: 500px
     font-weight: bold
     text-align: center
     z-index: 100

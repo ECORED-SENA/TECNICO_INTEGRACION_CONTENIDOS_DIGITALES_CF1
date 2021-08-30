@@ -8,7 +8,7 @@
       h1 Dirección de arte
     .row.mb-5
       .col-lg-6
-        p La dirección de arte está profundamente vinculada al sector del marketing y la publicidad, hace parte del diseño y tiene una enorme responsabilidad al llenar de significado a la imagen y por ende, a los productos audiovisuales.
+        p La dirección de arte está profundamente vinculada al sector del <i>marketing</i> y la publicidad, hace parte del diseño y tiene una enorme responsabilidad al llenar de significado a la imagen y por ende, a los productos audiovisuales.
           br
           br
           |El director de arte es un comunicador que usa la estética como herramienta clave en el desarrollo de las ideas y de la cual parte para luego converger las distintas disciplinas en un concepto visual: transmitir a través de la imagen, no de las palabras. De esta manera, se crea un concepto que está en todo lo que se ve, logrando efectividad y minimizando los elementos distractores, que de manera conjunta se analizan con otros profesionales como el redactor publicitario, el guionista, entre otros.

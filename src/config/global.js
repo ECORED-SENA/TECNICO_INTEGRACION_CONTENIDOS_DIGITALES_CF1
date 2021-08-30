@@ -57,7 +57,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Storyboard o guion gráfico',
+            titulo: '<i>Storyboard</i> o guion gráfico',
             hash: 't_3_1',
           },
         ],
@@ -79,7 +79,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.1',
-            titulo: 'Marketing digital',
+            titulo: '<i>Marketing</i> digital',
             hash: 't_5_1',
           },
           {
@@ -128,7 +128,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Alcántara Pilar, J. y Barrio-García, S. (2016). El papel moderador del diseño web y la cultura del país en la respuesta del consumidor online: una aplicación a los destinos turísticos. European Research on Management and Business Economics, 22(2), 78-87.',
+        'Alcántara Pilar, J. y Barrio-García, S. (2016). El papel moderador del diseño <i>web</i> y la cultura del país en la respuesta del consumidor <i>online</i>: una aplicación a los destinos turísticos. <i>European Research on Management and Business Economics</i>, 22(2), 78-87.',
       link: '',
     },
     {
@@ -142,17 +142,17 @@ export default {
     },
     {
       referencia:
-        'Barba Soler, J.P. Diseño y Desarrollo Web. Análisis de Casos.',
+        'Barba Soler, J. P. Diseño y Desarrollo Web. Análisis de Casos.',
       link: '',
     },
     {
       referencia:
-        'Bigné, E., Ruiz, C. y Andreu, L. (2004) Conceptualización del comportamiento del consumidor en los entornos virtuales: un análisis cualitativo. Estudios sobre Consumo, (70), 9-20.',
+        'Bigné, E., Ruiz, C. y Andreu, L. (2004). Conceptualización del comportamiento del consumidor en los entornos virtuales: un análisis cualitativo. Estudios sobre Consumo, (70), 9-20.',
       link: '',
     },
     {
       referencia:
-        'Bustos Rojo, Gabriela (2012) Teorías del diseño gráfico. Red Tercer Milenio.',
+        'Bustos Rojo, Gabriela (2012). Teorías del diseño gráfico. Red Tercer Milenio.',
       link: '',
     },
     {
@@ -162,32 +162,32 @@ export default {
     },
     {
       referencia:
-        'Moreno Villa, M. (2003) Filosofía vol. II Antropología, Psicología y Sociología. MAD.',
+        'Moreno Villa, M. (2003). Filosofía vol. II Antropología, Psicología y Sociología. MAD.',
       link: '',
     },
     {
       referencia:
-        'Nielsen, J. (2003) Usability 101: Introduction to usability. Nielsen Norman Group. ',
+        'Nielsen, J. (2003). Usability 101: <i>Introduction to usability</i>. Nielsen Norman Group. ',
       link: '',
     },
     {
       referencia:
-        'Pereiro, G. (2007) La evolución es creatividad: el pensamiento circular. Kier. ',
+        'Pereiro, G. (2007). La evolución es creatividad: el pensamiento circular. Kier. ',
       link: '',
     },
     {
       referencia:
-        'Shackell, B. (2009) Usability – context, framework, design and evaluation. Interacting with Computers, 21(5-6), 339-346. ',
+        'Shackell, B. (2009). <i>Usability – context, framework, design and evaluation. Interacting with Computers</i>, 21(5-6), 339-346. ',
       link: '',
     },
     {
       referencia:
-        'Valero Muñoz, A. (2012) Principios de color y holopintura. Editorial Club Universitario.',
+        'Valero Muñoz, A. (2012). Principios de color y holopintura. Editorial Club Universitario.',
       link: '',
     },
     {
       referencia:
-        'Wong, W. (1991) Fundamentos del diseño bi- y tri-dimensional. Editorial Gustavo Gili. ',
+        'Wong, W. (1991). Fundamentos del diseño bi- y tri-dimensional. Editorial Gustavo Gili. ',
       link: '',
     },
   ],
@@ -225,7 +225,7 @@ export default {
     {
       termino: 'Guion literario',
       significado:
-        'narración argumental del filme que contiene los personajes, los decorados, la ambientación, el vestuario, así como los diálogos y el "off".',
+        'narración argumental del filme que contiene los personajes, los decorados, la ambientación, el vestuario, así como los diálogos y el <i>"off"</i>.',
     },
     {
       termino: 'Guion técnico',
@@ -255,26 +255,23 @@ export default {
       termino: 'World Wide Web',
       termHTML: '<i>World Wide Web</i>',
       significado:
-        'se conoce a esta red como <i>Internet</i>. Es un sistema informático donde millones de ordenadores que están unidos pudiéndose buscar información, mandar mensajes, entre muchas otras cosas.',
+        'se conoce a esta red como <i>Internet</i>. Es un sistema informático donde millones de ordenadores que están unidos pueden buscar información, mandar mensajes, entre muchas otras cosas.',
     },
   ],
   complementario: [
     {
       texto:
-        'Llasera, Jaime P. (2021) La proporción áurea: Qué es y cómo se aplica en diseño gráfico. Imborrable. https://imborrable.com/blog/proporcion-aurea/',
+        'Llasera, Jaime P. (2021). La proporción áurea: Qué es y cómo se aplica en diseño gráfico. Imborrable. ',
       tipo: 'Página web',
       link: 'https://imborrable.com/blog/proporcion-aurea/',
     },
     {
-      texto:
-        'UCA (s.f.). Tema 3: la luz y el color. https://ocw.uca.es/pluginfile.php/225/mod_resource/content/1/Tema_3._La_Luz_y_el_Color.pdf',
+      texto: 'UCA (s.f.). Tema 3: la luz y el color. ',
       tipo: 'Artículo',
-      link:
-        'https://ocw.uca.es/pluginfile.php/225/mod_resource/content/1/Tema_3._La_Luz_y_el_Color.pdf',
+      descarga: '/downloads/Luz-y-color.pdf',
     },
     {
-      texto:
-        'CCF Global. (s.f.). Teoría del color. https://edu.gcfglobal.org/es/conceptos-basicos-de-diseno-grafico/teoria-del-color/1/',
+      texto: 'CCF Global. (s.f.). Teoría del color. ',
       tipo: 'Página web',
       link:
         'https://edu.gcfglobal.org/es/conceptos-basicos-de-diseno-grafico/teoria-del-color/1/',
@@ -286,8 +283,7 @@ export default {
         'https://developer.mozilla.org/es/docs/Learn/CSS/Styling_text/Web_fonts',
     },
     {
-      texto:
-        'Nielsen Norman Group. (2012). Usability. Nngorup. https://www.nngroup.com/articles/usability-101-introduction-to-usability/',
+      texto: 'Nielsen Norman Group. (2012). Usability. Nngorup.',
       tipo: 'Libro digital',
       link:
         'https://www.nngroup.com/articles/usability-101-introduction-to-usability/',
@@ -296,23 +292,21 @@ export default {
       texto:
         'Leyva Vallejo, K., Alarcón Barrera, L. y Ortegón Cortázar, L. (2016). Exploración del diseño y arquitectura web: aplicación a páginas electrónicas del sector bancario desde la perspectiva del usuario. Revista Escuela de Administración de Negocios, (80), 41-58.',
       tipo: 'Revista Digital',
-      link: 'https://bit.ly/3dKuvXH',
+      link: '/downloads/exploracion-diseno.pdf',
     },
     {
-      texto:
-        'Cronus Digital Consultora. (s.f.). https://cronuts.digital/es/servicios-digitales/diseno-web-desarrollo/wireframing-y-prototipos-usables/ ',
+      texto: 'Cronuts Digital Consultora. (s.f.). ',
       tipo: 'Página web',
       link:
         'https://cronuts.digital/es/servicios-digitales/diseno-web-desarrollo/wireframing-y-prototipos-usables/ ',
     },
     {
-      texto: 'Ryte Wiki. (s.f) Mockup. https://es.ryte.com/wiki/Mockup',
+      texto: 'Ryte Wiki. (s.f). <i>Mockup</i>. ',
       tipo: 'Página web',
       link: 'https://es.ryte.com/wiki/Mockup',
     },
     {
-      texto:
-        'Next U. (s.f.) ¿Qué es HTML? https://www.nextu.com/blog/que-es-html/',
+      texto: 'Next U. (s.f.) ¿Qué es HTML? ',
       tipo: 'Página web',
       link: 'https://www.nextu.com/blog/que-es-html/',
     },
@@ -330,7 +324,7 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     desarrolloProducto: [
@@ -338,36 +332,59 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios Regional - Tolima',
       },
       {
         nombre: ['Yuly Andrea Rey Quiñonez'],
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Camilo Andrés Bolaño Rey',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Lady Adriana Ariza Luque',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional - Tolima',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [

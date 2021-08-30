@@ -6,10 +6,8 @@
       .titulo-principal__numero
         span 1
       h1 Diseño
-    p.mb-5 El programa de formación tecnológica en Integración de Contenidos Digitales pretende otorgar al aprendiz Sena los conocimientos necesarios para desarrollar estrategias de planeación y producción de contenidos digitales y multimedia que las Mipymes del país requieren en el contexto de la cuarta revolución industrial, tal como se puede apreciar en el siguiente video.
-      br
-      br
-      |Este componente iniciará con la conceptualización del diseño, desde la perspectiva de las composiciones gráficas y digitales, con la que conseguirá crear imágenes. Posteriormente, se le entregará información que le posibilite la elaboración de piezas audiovisuales, para que finalmente pueda integrar ambos productos en estrategias digitales que consigan la operatividad, funcionalidad, visibilidad, o cualquier otro proceso necesario que contribuya a la conversión digital de las empresas del país.
+    p.mb-5 La comunicación es una necesidad innata en los humanos como seres sociales, y es también una herramienta fundamental de la vida en comunidad. A lo largo de la historia de la humanidad, la comunicación ha permitido que se gesten todos los desarrollos que conforman el mundo actual. En las distintas épocas de la historia, los formatos (verbal y no verbal) y los canales en los que se produce la comunicación se han ido ajustando a los fines para los que se comunica, aunque el propósito fundamental continúa siendo el de transmitir ideas de un emisor a un receptor con una intención determinada.
+
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-8
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
@@ -21,60 +19,61 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-6
         .cajon.color-acento-contenido.bg--gris.p-4.mb-4
-          p.mb-0 Cómo está relacionado con tantas áreas, el diseño podría definirse como toda acción 
-            b creadora que persigue una  finalidad.
+          p.mb-0 Como está relacionado con tantas áreas, el diseño podría definirse como  
+            b toda acción creadora que persigue una  finalidad.
     #t_1_1.titulo-segundo
       h2 1.1 Diseño gráfico
     p.mb-5 El desarrollo del diseño gráfico como campo creativo específico, puede entenderse estudiando su trayectoria a lo largo de la historia. 
     .tarjeta.tarjeta--gris.p-4.mb-5
       LineaTiempoC.color-acento-contenido(text-small)(data-aos="zoom-in")
-        .row(titulo="Prehistoria" class="text-small").justify-content-center
+        .row(titulo="Prehistoria").justify-content-center
           .col-md-4
             figure
               img(src='@/assets/curso/img1.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
             p La comunicación gráfica, que ha acompañado al hombre desde hace mucho tiempo, se remonta a la época de las pinturas rupestres. Al comienzo sólo fueron trazos en las cavernas de la prehistoria, con algún tipo de significado religioso. 
 
-        .row(titulo="Antiguo Egipto" class="text-small").justify-content-center
+        .row(titulo="Antiguo Egipto").justify-content-center
           .col-md-4
             figure
               img(src='@/assets/curso/img2.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
             p Los antiguos egipcios se comunicaban por medio de jeroglíficos que tallaban también en piedra, luego utilizaron otros materiales como el papiro.
-        .row(titulo="Edad media" class="text-small").justify-content-center
+        .row(titulo="Edad media").justify-content-center
           .col-md-4
             figure
               img(src='@/assets/curso/img3.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
             p En la edad media las obras escritas alcanzaron mayor poder comunicativo gracias al color, las ilustraciones, además de otros elementos gráficos usados de forma armoniosa y equilibrada en el documento.
 
-        .row(titulo="Siglo XV (año 1440)" class="text-small").justify-content-center
+        .row(titulo="Siglo XV (año 1440)").justify-content-center
           .col-md-4
             figure
               img(src='@/assets/curso/img4.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
             p Durante la primera mitad del siglo XV (año 1440) aparece la imprenta, invento del alemán Johannes Gutenberg, permitiendo agilizar y masificar la elaboración de documentos al igual que el alcance de su mensaje.
 
-        .row(titulo="Siglo XIX " class="text-small").justify-content-center
+        .row(titulo="Siglo XIX ").justify-content-center
           .col-md-4
             figure
               img(src='@/assets/curso/img5.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
             p A finales del siglo XIX, la revolución industrial provocó profundos cambios en el desarrollo tecnológico. Se originó la necesidad de poseer un estilo propio que representa la idiosincrasia de cada región, de esta manera nace el Modernismo.
 
-        .row(titulo="Modernismo 1918-1933" class="text-small").justify-content-center
+        .row(titulo="Modernismo 1918-1933").justify-content-center
           .col-md-4
             figure
               img(src='@/assets/curso/img6.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
             p Conocido también como “Art Nouveau”, según Droste (2006), se buscaba fusionar el arte con la vida, utilizando elementos de la naturaleza para darle protagonismo al componente orgánico. En 1919 Walter Gropius creó la escuela Bauhaus, que se convirtió en el motor y el modelo ejemplar de la reforma de formación artística antiacadémica de la república de Weimar (dícese del período de la historia de Alemania comprendido entre 1918 y 1933, tras la derrota del país en la Primera Guerra Mundial).  
               br
-              |La Bauhaus combinaba diseño, arte y arquitectura, estudiaba la forma, el color, los materiales, la composición y el espacio influenciados por el constructivismo. Finalmente, la escuela cierra sus puertas en Berlín en 1933 (p.15.                                                                                                              
+              br
+              |La Bauhaus combinaba diseño, arte y arquitectura, estudiaba la forma, el color, los materiales, la composición y el espacio influenciados por el constructivismo. Finalmente, la escuela cierra sus puertas en Berlín en 1933 (p.15).                                                                                                      
               br
               br
               |Mientras en Alemania se desarrollaba la Bauhaus, en Francia aparecía el movimiento “Art decó”, que se dio a conocer en la exposición internacional de las artes decorativas e industriales modernas de 1925. 
 
-        .row(titulo="La época del diseño (1940)" class="text-small").justify-content-center
+        .row(titulo="La época del diseño (1940)").justify-content-center
           .col-md-4
             figure
               img(src='@/assets/curso/img7.jpg', alt='Texto que describa la imagen')
@@ -117,7 +116,7 @@
           .col-md-8.mb-4.mb-md-0.justify-content-end
             .vineta.px-5.py-3
               h4 Jerarquía:
-              p tiene que ver con el tamaño (de los elementos y su relación con el resto), el color y la disposición de elementos para  generar una condición de subordinación. Tiene tres subtipos:
+              p Tiene que ver con el tamaño (de los elementos y su relación con el resto), el color y la disposición de elementos para  generar una condición de subordinación. Tiene tres subtipos:
               .row.align-items-center
                 .col-lg-1: img(src='@/assets/curso/img123.svg' style='width: 46px')
                 .col-lg-10
@@ -135,7 +134,7 @@
                 .col-lg-1: img(src='@/assets/curso/img125.svg' style='width: 46px')
                 .col-lg-10
                   p 
-                    b Escala:
+                    b Escala: 
                     | existe cuando hay relación matemática (proporción) entre las dimensiones de los distintos elementos, y se puede representar mediante un número o una fórmula.
 
       .py-3.py-md-4(titulo="Unidad").vineta_fondo
@@ -143,25 +142,25 @@
           .col-md-8.mb-4.mb-md-0.justify-content-end
             .vineta.p-5.mb-5
               h4 Unidad:
-              p el valor de la unidad radica en que cada elemento se organiza, se relaciona y ejerce fuerza y tensión, representando un solo elemento. La unidad se puede dar por continuidad, por repetición, por continuación o por proximidad.
+              p El valor de la unidad radica en que cada elemento se organiza, se relaciona y ejerce fuerza y tensión, representando un solo elemento. La unidad se puede dar por continuidad, por repetición, por continuación o por proximidad.
       .py-3.py-md-4(titulo="Contraste").vineta_fondo
         .row.justify-content-end
           .col-md-8.mb-4.mb-md-0.justify-content-end
             .vineta.p-5.mb-5
               h4 Contraste: 
-              p es  la distinción entre uno o varios elementos para marcar una diferencia que permita destacar lo que se considera importante. El contraste se puede generar por color, forma, tamaño y tipografía: p.ej. las formas angulares y alargadas amplían el campo de visión y proporcionan un efecto de magnificencia, mientras que las cortas transmiten humildad.
+              p Es  la distinción entre uno o varios elementos para marcar una diferencia que permita destacar lo que se considera importante. El contraste se puede generar por color, forma, tamaño y tipografía: p. ej. las formas angulares y alargadas amplían el campo de visión y proporcionan un efecto de magnificencia, mientras que las cortas transmiten humildad.
       .py-3.py-md-4(titulo="Ritmo").vineta_fondo
         .row.justify-content-end
           .col-md-8.mb-4.mb-md-0.justify-content-end
             .vineta.p-5
               h4 Ritmo:
-              p consiste en la repetición regular de un patrón con el fin de conseguir armonía en la composición. El ritmo se puede dar de forma regular o de forma progresiva
+              p Consiste en la repetición regular de un patrón con el fin de conseguir armonía en la composición. El ritmo se puede dar de forma regular o de forma progresiva.
       .py-3.py-md-4(titulo="Equilibrio").vineta_fondo
         .row.justify-content-end
           .col-md-8.mb-4.mb-md-0.justify-content-end
             .vineta.p-5
               h4 Equilibrio:
-              p hace referencia a la armonía que hay entre los elementos, de tal forma que nada domine en el plano. Existen dos tipos de equilibrio: simétrico y asimétrico.
+              p Hace referencia a la armonía que hay entre los elementos, de tal forma que nada domine en el plano. Existen dos tipos de equilibrio: simétrico y asimétrico.
               .row.align-items-center
                 .col-lg-1: img(src='@/assets/curso/img127.svg' style='width: 46px')
                 .col-lg-10
@@ -180,7 +179,7 @@
           .col-md-8.mb-4.mb-md-0.justify-content-end
             .vineta.p-5
               h4 Proporción áurea:
-              p también conocida como el número áureo o la divina proporción, corresponde al número 1.618. Este número surge de la Sucesión de Fibonacci, en la que cada número es la suma de los dos anteriores y que se relaciona con la belleza o la naturaleza, y se ha  utilizado en arte y pintura por generaciones. El uso de este principio garantiza una proporción más armoniosa y más agradable al ojo.
+              p También conocida como el número áureo o la divina proporción, corresponde al número 1.618. Este número surge de la Sucesión de Fibonacci, en la que cada número es la suma de los dos anteriores y que se relaciona con la belleza o la naturaleza, y se ha  utilizado en arte y pintura por generaciones. El uso de este principio garantiza una proporción más armoniosa y más agradable al ojo.
 
     p.mb-5 Cada uno de los principios anteriores tiene su propia relevancia en la composición, y se estudian con el objetivo de que, usados en conjunto, consigan transmitir con éxito el mensaje acordado.
     h3 b. La teoría del color
@@ -188,10 +187,10 @@
     .row.mb-5(data-aos="slide-down")
       .col-md-6
         .cajon.color-primario.bg--1-claro.p-4.mb-4
-          p El color es el resultado de la descomposición de la luz blanca. Un rayo de luz blanca, solar, al atravesar un prisma se des­compone en varios colores… Llamamos color luz al fenómeno óptico de reflexión de la luz sobre los cuerpos, que al llegar a nuestra retina, nos permite captar ciertos estímulos que luego son interpretados como color por nuestro cerebro. (Hernández Rentería,1976, p. 8)
+          p El color es el resultado de la descomposición de la luz blanca. Un rayo de luz blanca, solar, al atravesar un prisma se des­compone en varios colores… Llamamos color luz al fenómeno óptico de reflexión de la luz sobre los cuerpos, que al llegar a nuestra retina, nos permite captar ciertos estímulos que luego son interpretados como color por nuestro cerebro. (Hernández Rentería,1976, p. 8).
         p.mb-4 En la retina hay unas células llamadas conos que reaccionan de diferente forma según la longitud de onda de la radiación que les llegue. Esto se debe a que los conos poseen distintas sustancias sensibles a una longitud de onda determinada, aunque, en menor medida, también reaccionan ante longitudes de onda próximas por encima y por debajo.
         .cajon.color-primario.bg--1-claro.p-4.mb-4
-          p La percepción del color implica que nos lleguen ondas luminosas a los ojos, donde se convierten en impulsos nerviosos que se envían al cerebro para que sean interpretados y nos produzcan la sensación del color. (UCA, s.f., p.15)
+          p La percepción del color implica que nos lleguen ondas luminosas a los ojos, donde se convierten en impulsos nerviosos que se envían al cerebro para que sean interpretados y nos produzcan la sensación del color. (UCA, s.f., p.15).
       .col-md-6: img(src='@/assets/curso/img9.jpg', alt='Texto que describa la imagen')
     p.mb-5 Isaac Newton fue quien descubrió que la luz blanca del sol al ser refractada, es decir, al cambiar de dirección pasando oblicuamente de un medio a otro con diferente densidad, se dividía en cada uno de los colores con una frecuencia distinta de luz, dependiendo de una mayor o menor desviación.
       br
@@ -204,13 +203,13 @@
     figure.mb-5
       img(src='@/assets/curso/img10.svg', alt='Texto que describa la imagen')
     p.mb-5 Respecto a la teoría del color, se puede hablar de dos tipos: la de la síntesis aditiva y la de la síntesis sustractiva.
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg--gris")
       .row(titulo="Teoría de la síntesis aditiva").justify-content-center
         .col-md-3
           figure
             img(src='@/assets/curso/img11.jpg', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
-          p Según Newton, los colores rojo, verde y azul, componen la luz blanca y no pueden producirse mediante la mezcla de ningún otro color, por lo que se consideran como colores primarios o colores RGB, (abreviatura del inglés Red, Green, Blue). A partir de la combinación de dos colores primarios se obtienen colores secundarios o colores aditivos secundarios, que serían el cian, el magenta y el amarillo. Si se combinan los tres colores primarios se obtiene el color blanco, mientras que si se combinan los tres colores secundarios, se obtiene el color negro. La combinación de un color primario y uno secundario da como resultado los colores terciarios. 
+          p Según Newton, los colores rojo, verde y azul, componen la luz blanca y no pueden producirse mediante la mezcla de ningún otro color, por lo que se consideran como colores primarios o colores RGB, (abreviatura del inglés <i>Red, Green, Blue</i>). A partir de la combinación de dos colores primarios se obtienen colores secundarios o colores aditivos secundarios, que serían el cian, el magenta y el amarillo. Si se combinan los tres colores primarios se obtiene el color blanco, mientras que si se combinan los tres colores secundarios, se obtiene el color negro. La combinación de un color primario y uno secundario da como resultado los colores terciarios. 
             br
             br
             |Esta teoría se aplica en el funcionamiento de los televisores y de los monitores. Mediante la combinación de estos colores se pueden obtener varios espacios de colores, que son un modelo de composición de colores, como RGB, el VGA, el LAB, el CIE XYZ, etc. 
@@ -226,7 +225,7 @@
             |Esta teoría necesita tres condiciones: que exista una fuente de luz, una muestra y un detector, que serían los ojos. 
             br
             br
-            |Por ejemplo, la cantidad de rojo que se mostrará, dependerá de la cantidad de cian que apliquemos sobre un papel. En este modelo los colores primarios son el cian, magenta y amarillo o colores CMYK (abreviatura del inglés Cyan, Magenta, Yellow, Key). Esta teoría es utilizada en las impresiones a color y en las fotografías a color, las artes plásticas o la pintura decorativa.
+            |Por ejemplo, la cantidad de rojo que se mostrará, dependerá de la cantidad de cian que apliquemos sobre un papel. En este modelo los colores primarios son el cian, magenta y amarillo o colores CMYK (abreviatura del inglés <i>Cyan, Magenta, Yellow, Key</i>). Esta teoría es utilizada en las impresiones a color y en las fotografías a color, las artes plásticas o la pintura decorativa.
     p.mb-5 Este aspecto permite ampliar la comprensión sobre el significado y usos del color. Sin embargo, para su correcta aplicación es necesario el poder entender las propiedades del mismo.   
     .titulo-sexto.color-acento-contenido
       h5.fw-normal 
@@ -238,16 +237,15 @@
         figure
           img(src='@/assets/curso/img13.svg', alt='Texto que describa la imagen')
 
-          figcaption Leyenda de la imagen
       .tarjeta.color-primario.p-3(x="31%" y="40%")
         .h5.mb-2 Tono:
-        p es la cualidad propia del color que permite diferenciarlo de otro; es el medio por el que distinguimos ópticamente un color. Cada tono es un color. Existen tonos cálidos y fríos.
+        p Es la cualidad propia del color que permite diferenciarlo de otro; es el medio por el que distinguimos ópticamente un color. Cada tono es un color. Existen tonos cálidos y fríos.
       .tarjeta.color-primario.p-3(x="57%" y="20%")
         .h5.mb-2 Brillo o luminosidad:
-        p es la intensidad lumínica de un color en función de lo cerca que el color esté del blanco o del negro, para ganar claridad u oscuridad del tono.
+        p Es la intensidad lumínica de un color en función de lo cerca que el color esté del blanco o del negro, para ganar claridad u oscuridad del tono.
       .tarjeta.color-primario.p-3(x="57%" y="40%")
         .h5.mb-2 Saturación:
-        p representa la intensidad o palidez de un tono; tiene que ver con la pureza del color respecto del gris. Mientras más gris, menos saturado es.
+        p Representa la intensidad o palidez de un tono; tiene que ver con la pureza del color respecto del gris. Mientras más gris, menos saturado es.
     p.mb-5 Ahora bien, el uso del color en el diseño está basado en la selección correcta de los mismos  con el objetivo de lograr en el receptor, un efecto determinado. Este proceso contempla varios aspectos que se tratarán a continuación:
     .psicologia-color.d-flex.mb-5
       .cuadros-p.cuadros-p--rojo.p-5.d-flex
@@ -255,49 +253,49 @@
           h6.text-white  Rojo
         .cuadros-p_textos.text-white.m-auto
           h6 Rojo
-          p el color de todas las pasiones: del amor al odio. El color de los reyes y del comunismo, de las alegrías y del peligro. (Heller, 2008, p. 51). El rojo expresa peligro, pasión, dinamismo, calidez y agresividad; aunque es un color que puede causar fatiga, es utilizado por su gran particularidad de llamar mucho la atención.
+          p El color de todas las pasiones: del amor al odio. El color de los reyes y del comunismo, de las alegrías y del peligro. (Heller, 2008, p. 51). El rojo expresa peligro, pasión, dinamismo, calidez y agresividad; aunque es un color que puede causar fatiga, es utilizado por su gran particularidad de llamar mucho la atención.
       .cuadros-p.cuadros-p--naranja.p-5.d-flex
         .cuadros-p_titulo.m-auto
           h6.text-white  Naranja
         .cuadros-p_textos.text-white.m-auto
           h6 Naranja
-          p color de la diversión y del budismo. Exótico y llamativo, pero subestimado. (Heller, 2008, p. 179). Está asociado con la juventud; resulta de mezclar rojo y amarillo, dos colores opuestos que se contraponen en muchos de sus significados y asociaciones. Se trata de un color muy singular que incluso altera la percepción.
+          p Color de la diversión y del budismo. Exótico y llamativo, pero subestimado. (Heller, 2008, p. 179). Está asociado con la juventud; resulta de mezclar rojo y amarillo, dos colores opuestos que se contraponen en muchos de sus significados y asociaciones. Se trata de un color muy singular que incluso altera la percepción.
       .cuadros-p.cuadros-p--amarillo.p-5.d-flex
         .cuadros-p_titulo.m-auto
           h6  Amarillo
         .cuadros-p_textos.m-auto
           h6 Amarillo
-          p el color más contradictorio, pues significa optimismo y celos; diversión, entendimiento y traición. El amarillo del oro y el amarillo del azufre. (Heller, 2008, p. 83). Es el color más brillante y energizante de los colores cálidos: alegre, estimulante, expansivo, es acción, poder, fuerza, voluntad, estímulo y se asocia con la idea de liberación.
+          p El color más contradictorio, pues significa optimismo y celos; diversión, entendimiento y traición. El amarillo del oro y el amarillo del azufre. (Heller, 2008, p. 83). Es el color más brillante y energizante de los colores cálidos: alegre, estimulante, expansivo, es acción, poder, fuerza, voluntad, estímulo y se asocia con la idea de liberación.
       .cuadros-p.cuadros-p--verde.p-5.d-flex
         .cuadros-p_titulo.m-auto
           h6.text-white  Verde
         .cuadros-p_textos.text-white.m-auto
           h6 Verde
-          p el color de la fertilidad, la esperanza y de la burguesía. Verde sagrado y verde venenoso. El color intermedio. (Heller, 2008, p. 103). El verde es un color relajante y refrescante que induce a quién lo contempla sensaciones de serenidad y armonía. Está íntimamente relacionado con todo lo natural, simbolizando también la vida, la fertilidad y la buena salud. Es también un color muy variable porque tan solo una pizca de azul convierte el amarillo en verde, en cambio puede contener varios colores como blanco, negro, marrón o rojo, sin dejar de ser nunca verde.
+          p El color de la fertilidad, la esperanza y de la burguesía. Verde sagrado y verde venenoso. El color intermedio. (Heller, 2008, p. 103). El verde es un color relajante y refrescante que induce a quien lo contempla sensaciones de serenidad y armonía. Está íntimamente relacionado con todo lo natural, simbolizando también la vida, la fertilidad y la buena salud. Es también un color muy variable porque tan solo una pizca de azul convierte el amarillo en verde, en cambio puede contener varios colores como blanco, negro, marrón o rojo, sin dejar de ser nunca verde.
       .cuadros-p.cuadros-p--azul.p-5.d-flex
         .cuadros-p_titulo.m-auto
           h6.text-white  Azul
         .cuadros-p_textos.text-white.m-auto
           h6 Azul 
-          p uno de los colores preferidos; el color de la simpatía, la armonía y la fidelidad, pese a ser frío y distante. Del azul real al azul de los tejanos. (Heller, 2008, p. 17). El azul es un color que inspira confianza, se asocia con la fantasía, la estabilidad, la armonía, la paz y la calma, es el color de las buenas cualidades y los buenos sentimientos. También puede tener algunos significados negativos, como la depresión, y puede provocar una sensación de frialdad.
+          p Uno de los colores preferidos; el color de la simpatía, la armonía y la fidelidad, pese a ser frío y distante. Del azul real al azul de los tejanos. (Heller, 2008, p. 17). El azul es un color que inspira confianza, se asocia con la fantasía, la estabilidad, la armonía, la paz y la calma, es el color de las buenas cualidades y los buenos sentimientos. También puede tener algunos significados negativos, como la depresión, y puede provocar una sensación de frialdad.
       .cuadros-p.cuadros-p--morado.p-5.d-flex
         .cuadros-p_titulo.m-auto
           h6.text-white Violeta 
         .cuadros-p_textos.text-white.m-auto
           h6 Violeta
-          p de la púrpura del poder al color de la teología, la magia, el feminismo y el movimiento gay. (Heller, 2008, p. 191). El púrpura es un color real y se le relaciona con la nobleza, el lujo, la sabiduría y la espiritualidad.
+          p Del púrpura del poder al color de la teología, la magia, el feminismo y el movimiento gay. (Heller, 2008, p. 191). El púrpura es un color real y se le relaciona con la nobleza, el lujo, la sabiduría y la espiritualidad.
       .cuadros-p.cuadros-p--negro.p-5.d-flex
         .cuadros-p_titulo.m-auto
           h6.text-white  Negro
         .cuadros-p_textos.text-white.m-auto
           h6 Negro
-          p el color del poder, de la violencia y de la muerte. El color favorito de los diseñadores y de la juventud. El color de la negación y de la elegancia. ¿Es el negro propiamente un color? (Heller, 2008, p. 125). Simboliza el misterio, el poder, la elegancia, la sofisticación, la muerte, el error, el mal, la negación y el universo. Por el contrario, el color negro también puede evocar emociones como la tristeza y la ira.
+          p El color del poder, de la violencia y de la muerte. El color favorito de los diseñadores y de la juventud. El color de la negación y de la elegancia. ¿Es el negro propiamente un color? (Heller, 2008, p. 125). Simboliza el misterio, el poder, la elegancia, la sofisticación, la muerte, el error, el mal, la negación y el universo. Por el contrario, el color negro también puede evocar emociones como la tristeza y la ira.
       .cuadros-p.cuadros-p--blanco.p-5.d-flex
         .cuadros-p_titulo.m-auto
           h6 Blanco
         .cuadros-p_textos.m-auto
           h6 Blanco
-          p representa lo femenino, la inocencia. El color del bien y de los espíritus. El color más importante de los pintores. (Heller, 2008, p. 153). El color blanco también tiene un lado negativo, donde simboliza la esterilidad y el frío. Sin embargo, se debe tener en cuenta que este es el significado en la cultura occidental. En otras partes del mundo el blanco tiene el significado opuesto.
+          p Representa lo femenino, la inocencia. El color del bien y de los espíritus. El color más importante de los pintores. (Heller, 2008, p. 153). El color blanco también tiene un lado negativo, donde simboliza la esterilidad y el frío. Sin embargo, se debe tener en cuenta que este es el significado en la cultura occidental. En otras partes del mundo el blanco tiene el significado opuesto.
     p.mb-5 Una vez se comprende el uso de cada color, se hace necesario el conocer la base de ellos, la cual se da a través del 
       b círculo cromático
       |, el cual es un esquema gráfico formado por una superficie geométrica circular que sirve para ordenar los colores primarios y secundarios. Los colores que se encuentran enfrentados en él, se llaman colores complementarios y se definen así cuando no contienen ninguna cantidad del color opuesto. Así, el color complementario del azul cian es el rojo; el magenta es el complementario del verde y el amarillo lo es del violeta. La siguiente figura ilustra cómo está formado el círculo cromático.    
@@ -327,7 +325,7 @@
               img(src='@/assets/curso/img129.svg', alt='Imagen de la tarjeta')
           .col-md-9
             h5 Complementarios:
-            p son opuestos uno al otro en la rueda. Por ejemplo: azul y naranja, o el clásico rojo y verde.  
+            p Son opuestos uno al otro en la rueda. Por ejemplo: azul y naranja, o el clásico rojo y verde.  
               br
               br
               |Para evitar que la paleta te quede muy simple, puedes agregar tonos más claros, oscuros o con poca saturación.
@@ -337,7 +335,7 @@
               img(src='@/assets/curso/img130.svg', alt='Imagen de la tarjeta')
           .col-md-9
             h5 Tríada:
-            p se forma un triángulo en el círculo cromático y se usan los colores que están en cada esquina. 
+            p Se forma un triángulo en el círculo cromático y se usan los colores que están en cada esquina. 
               br
               br
               |Estas combinaciones tienden a ser bastante impactantes, particularmente con colores primarios y secundarios, así que piénsalo bien antes de elegirlas.
@@ -347,28 +345,28 @@
               img(src='@/assets/curso/img131.svg', alt='Imagen de la tarjeta')
           .col-md-9
             h5 Análoga: 
-            p se eligen los colores que se siguen uno al otro en el círculo cromático, como los rojos y anaranjados, o azules y verdes.
+            p Se eligen los colores que se siguen uno al otro en el círculo cromático, como los rojos y anaranjados, o azules y verdes.
         .row.m-5.align-items-center
           .col-md-3
             figure
               img(src='@/assets/curso/img132.svg', alt='Imagen de la tarjeta')
           .col-md-9
             h5 Complementarios divididos: 
-            p se utilizan los colores que están junto al color complementario. Esto te da el mismo nivel de contraste, pero más opciones de tonos y mejores resultados más interesantes.
+            p Se utilizan los colores que están junto al color complementario. Esto te da el mismo nivel de contraste, pero más opciones de tonos y mejores resultados más interesantes.
         .row.m-5.align-items-center
           .col-md-3
             figure
               img(src='@/assets/curso/img133.svg', alt='Imagen de la tarjeta')
           .col-md-9
             h5 Tetraédrica: 
-            p forma un rectángulo en el círculo, por lo cual no usa uno, sino dos pares de colores complementarios. Esta fórmula funciona mejor si dejas un color como dominante y los otros tres como auxiliares.
+            p Forma un rectángulo en el círculo, por lo cual no usa uno, sino dos pares de colores complementarios. Esta fórmula funciona mejor si dejas un color como dominante y los otros tres como auxiliares.
         .row.m-5.align-items-center
           .col-md-3
             figure
               img(src='@/assets/curso/img134.svg', alt='Imagen de la tarjeta')
           .col-md-9
             h5 Monocromática: 
-            p se utiliza un solo color. Modificando la saturación y brillo se crean variaciones en el tono y se tiene la garantía de que combinarán.
+            p Se utiliza un solo color. Modificando la saturación y brillo se crean variaciones en el tono y se tiene la garantía de que combinarán.
 
 
     .titulo-color.mb-4
@@ -385,7 +383,7 @@
         .row
           .col-xl-6
             h5 Ley de tercios
-            p Consiste en dividir la imagen con  líneas horizontales y tres verticales equidistantes, en 9 partes y utilizar los puntos de intersección de estas líneas, llamados también puntos fuertes o calientes, para ubicar los objetos que se quieren destacar en la composición. 
+            p Consiste en dividir la imagen con  líneas horizontales y dos verticales equidistantes, en 9 partes y utilizar los puntos de intersección de estas líneas, llamados también puntos fuertes o calientes, para ubicar los objetos que se quieren destacar en la composición. 
               br
               br
               |Según esta ley, los objetos no deben quedar solo en el centro del cuadro, sino que se deben colocar en los puntos fuertes o principales. Esto hará que el peso visual aumente y toda la fotografía o diseño esté más equilibrada.
@@ -406,7 +404,7 @@
           .col-xl-6
             h5 Leyes de la Gestalt
             p Sostienen la fascinación por la forma y la materia, permitiendo dominar y deducir incluso lo que está por detrás de la forma. 
-            P.ms-3 En la Alemania de los años 20, un equipo de psicólogos desarrolló una serie de teorías sobre la percepción visual humana, planteando el principio básico de la organización perceptual: el todo es más que la suma de las partes. Las leyes de la Gestalt son unas reglas que explican el origen de las percepciones a partir de los estímulos. Estas leyes se apoyan en test y resultados estadísticos donde las interpretaciones, si bien no son unívocas, sugieren tendencias fuertes (Pereiro, 2007, p.44)
+            P.ms-3 En la Alemania de los años 20, un equipo de psicólogos desarrolló una serie de teorías sobre la percepción visual humana, planteando el principio básico de la organización perceptual: el todo es más que la suma de las partes. Las leyes de la Gestalt son unas reglas que explican el origen de las percepciones a partir de los estímulos. Estas leyes se apoyan en test y resultados estadísticos donde las interpretaciones, si bien no son unívocas, sugieren tendencias fuertes (Pereiro, 2007, p. 44).
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/img136.jpg', alt='Texto que describa la imagen')
@@ -422,7 +420,7 @@
         .row
           .col-xl-6
             h5 Ley de la buena forma
-            p También se le conoce como pregnancia, “se basa en la observación ya que en el cerebro existe una tendencia natural a la simplificación, la simetría, el equilibrio, el orden, a organizar la información de la manera más simple y ordenada posible” (Moreno, 2003, p.236).
+            p También se le conoce como pregnancia, “se basa en la observación ya que en el cerebro existe una tendencia natural a la simplificación, la simetría, el equilibrio, el orden, a organizar la información de la manera más simple y ordenada posible” (Moreno, 2003, p. 236).
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/img138.jpg', alt='Texto que describa la imagen')
@@ -500,7 +498,7 @@
           .row
             .col-md-9.mb-4.mb-md-0
               h3 Medida
-              p Todas las formas tienen un tamaño. Al comparar diferentes elementos se puede percibir tamaño, forma, distancia, peso y ubicación en el espacio. El tamaño es relativo si lo describimos en términos de magnitud y pequeñez, pero así mismo es físicamente mesurable
+              p Todas las formas tienen un tamaño. Al comparar diferentes elementos se puede percibir tamaño, forma, distancia, peso y ubicación en el espacio. El tamaño es relativo si lo describimos en términos de magnitud y pequeñez, pero así mismo es físicamente mesurable.
             .col-md-3
               figure
                 img(src='@/assets/curso/img17.svg', alt='Texto que describa la imagen' style="width: 120px" ).m-auto
@@ -538,7 +536,7 @@
                 img(src='@/assets/curso/img22.svg', alt='Texto que describa la imagen' style="width: 120px" ).m-auto
             .col-md-9.mb-4.mb-md-0
               h3 El espacio
-              p Es la distancia o área alrededor o entre los elementos de un diseño que determina la esencia visual y el dinamismo de la composición y puede ser dos tipos: 
+              p Es la distancia o área alrededor o entre los elementos de un diseño que determina la esencia visual y el dinamismo de la composición y puede ser de dos tipos: 
               ol.lista-ol--cuadro
                 li 
                   .lista-ol--cuadro__vineta
@@ -561,7 +559,7 @@
               figure
                 img(src='@/assets/curso/img23.svg', alt='Texto que describa la imagen ' style='width: 120px').m-auto
     p.mb-5 Sobre la tipografía se pueden estudiar tres aspectos principales:
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg--gris4")
       .row(titulo="Anatomía tipográfica")
         .col-md-9.mb-4.mb-md-0
           p Comprende todas las características de las tipografías que pueden descomponerse y sintetizarse. La anatomía de los caracteres es lo que otorga a la tipografía su propio estilo y aspecto. 
@@ -572,22 +570,22 @@
           figure
             img(src='@/assets/curso/img28.jpg', alt='Texto que describa la imagen')
             figcaption Nota. Tomado de Hemisferio digital (2017).
-      .row(titulo="Psicología de la tipográfica")
+      .row(titulo="Psicología de la tipografia")
         .col-md-9.mb-4.mb-md-0
           p Al igual que en el caso del color, la selección de la tipografía está relacionada con la idea o mensaje que se quiere transmitir, puesto que cada  tipo de letra produce sensaciones y valores perceptibles. 
             br
             br
-            b “Está probado que la forma visual y el estilo de cada familia tipográfica provoca una emoción diferente que puede ser usada para transmitir diferentes conceptos” (Hemisferio digital, 2017)
+            b “Está probado que la forma visual y el estilo de cada familia tipográfica provoca una emoción diferente que puede ser usada para transmitir diferentes conceptos” (Hemisferio digital, 2017).
         .col-md-3
           figure
             img(src='@/assets/curso/img29.jpg', alt='Texto que describa la imagen').m-auto
             figcaption Nota. Tomado de Pikotchart (2017).
       .row(titulo="Familia tipográfica y su clasificación")
         .col-md-12.mb-4.mb-md-0
-          p Una familia tipográfica agrupa todas las variaciones posibles de un tipo de letra o de una fuente específica: esto es, los diferentes grosores, anchos y cursivas. Entre las familias tipográficas están: la “Universe”,''Times Roman” y la “Garamond”. Muchas familias reciben el nombre de su creador o de la publicación en la que se emplearon por primera vez (Ambrose -Harris, 2007, p. 82).
+          p Una familia tipográfica agrupa todas las variaciones posibles de un tipo de letra o de una fuente específica: esto es, los diferentes grosores, anchos y cursivas. Entre las familias tipográficas están: la <i>“Universe”,''Times Roman”</i> y la <i>“Garamond”</i>. Muchas familias reciben el nombre de su creador o de la publicación en la que se emplearon por primera vez (Ambrose - Harris, 2007, p. 82).
             br
             br
-            |En el siglo XX se realizaron tres clasificaciones de las familias tipográficas. La última, llevada a cabo por la ATypI en 1962 -Association Typographique Internationale- (nombre en francés original; International Typography Association en inglés; y Asociación Internacional de Tipografía en español) fusiona las clasificaciones anteriores, realizadas por François Thibaudeau (1921), Maximilien Vox (1952) y Aldo Novarese en (1957).
+            |En el siglo XX se realizaron tres clasificaciones de las familias tipográficas. La última, llevada a cabo por la ATypI en 1962 - <i>Association Typographique Internationale</i> - (nombre en francés original; <i>International Typography Association</i> en inglés; y Asociación Internacional de Tipografía en español) fusiona las clasificaciones anteriores, realizadas por François Thibaudeau (1921), Maximilien Vox (1952) y Aldo Novarese en (1957).
             br
             br
             |Esta clasificación diferencia 11 familias correspondientes con 4 grupos:
@@ -598,7 +596,7 @@
                 b Tipografías Roman:  
                 | Romanas, Egipcias o Mecanas, Incisas.
             li 
-              .lista-ol--cuadro__vineta: img(src='@/assets/curso/img25.svg' style='width: 14px').m-auto
+              .lista-ol--cuadro__vineta: img(src='@/assets/curso/img25.svg' style='width: 14px').m-auto.d-block.mt-1
               p 
                 b Tipografías Palo Seco:  
                 | Humanistas, Geométricas, Grotescas y Neogrotescas.
@@ -614,7 +612,7 @@
                 | proponen una reinterpretación fuera de toda norma, de elementos fijos e incorporación de elementos variables de diversa naturaleza.
       .row(titulo="Tipografía digital")
         .col-md-12.mb-4.mb-md-0
-          p Gracias a los avances tecnológicos se ha pasado de la fotocomposición a la tipografía digital que se diseña a partir de vectores para ser visualizada en cualquier tipo de pantalla o dispositivo móvil. Los formatos más tradicionales usados en la mayoría de los sistemas operativos están son: “fuente TrueType (.ftt), “Open Type Font” (.otf), Open Type incrustado (.eot) y el Formato de fuente abierta en la <i>web</i> (.woff y .woff2)
+          p Gracias a los avances tecnológicos se ha pasado de la fotocomposición a la tipografía digital que se diseña a partir de vectores para ser visualizada en cualquier tipo de pantalla o dispositivo móvil. Los formatos más tradicionales usados en la mayoría de los sistemas operativos  son: “fuente TrueType (.ftt), “Open Type Font” (.otf), Open Type incrustado (.eot) y el Formato de fuente abierta en la <i>web</i> (.woff y .woff2).
             br
             br
             |Las tipografías <i>web</i> son una función del CSS (lenguaje para la composición y estructuración de páginas <i>web</i> HTML o XML) que permite especificar los archivos de tipo de letra que se van a descargar junto con un sitio <i>web</i>, a medida que el usuario acceda a ellos; esto significa que cualquier navegador que admita tipografías <i>web</i> puede disponer de los tipos de letra que el diseñador especifique.
@@ -643,8 +641,8 @@
           li 
             i.fas.fa-angle-right
             p También podría entenderse que el diseño digital está más enfocado en los desarrollos para el 
-              span.fst-italic marketing digital 
-              | y abarca todos los productos que permiten la publicidad digital: 
+              span.fst-italic marketing  
+              | digital y abarca todos los productos que permiten la publicidad digital: 
               span.fst-italic newsletters, banners, 
               |videos, infografías, etc., pero esta definición dejaría por fuera otro tipo de productos que no tienen que ver con la publicidad como la animación, la producción de contenidos digitales, o incluso la fotografía digital (retoque). 
     hr
@@ -670,8 +668,8 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/4nRHvBi9afc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Introducción al Diseño Digital  
-    h3 El diseño web
-    p.mb-5 Es un área del diseño digital que se encarga de desarrollar interfaces digitales, sitios y aplicaciones web, utilizando lenguajes específicos como HTML.
+    h3 El diseño <i>web</i>
+    p.mb-5 Es un área del diseño digital que se encarga de desarrollar interfaces digitales, sitios y aplicaciones <i>web</i>, utilizando lenguajes específicos como HTML.
     .row.mb-5.justify-content-center(data-aos="slide-down")
       .col-lg-8
         .bloque-texto-c.color-primario.bg--1-claro.p-4
@@ -680,7 +678,7 @@
             .h5.mb-2 El diseñador 
               span.fst-italic web 
               |tiene la misión de enlazar al usuario con el mundo informativo de manera eficaz y agradable. La hipermedia permite, además de tener acceso a la información, satisfacer los requerimientos y gustos de millones de navegantes. Por lo tanto, es primordial tener un criterio de diseño antes de crear un sitio.
-            span (Bustos, p.29)
+            span (Bustos, p. 29).
     p.mb-5 Es común confundir los términos diseño <i>web</i> y desarrollo <i>web</i>, pero ambos tienen propósitos distintos, aunque estén profundamente entrelazados.
     .bg--1-claro.px-4.py-4.rounded.mb-5(data-aos="flip-up")
       .row.align-items-center 
@@ -690,16 +688,16 @@
           p.mb-0 El diseño <i>web</i> cubre las fases del proyecto que se ocupan de la navegación, la usabilidad, la interacción, la arquitectura de la información y de la parte gráfica de la <i>web</i>. Por otra parte, el desarrollo <i>web</i> es la programación necesaria para la construcción del sitio <i>web</i>. Se divide en dos partes que pueden estar o no conectadas, la parte del cliente y la parte del servidor. 
             br
             br
-            |En la parte del cliente estaríamos hablando de HTML y CSS, código básico para creación de páginas <i>web</i>, y JavaScript y DOM, para la interacción con el usuario. En la parte del servidor se trabaja con código más complejo, como es PHP, ASP.NET, JSP, etc. Con este código se construye el back-end, la parte de la <i>web</i> que el usuario no ve. Su objetivo es el diseño de bases de datos y asegurar la seguridad de la <i>web</i>. Cuando ambas partes se comunican, se habla de programación cliente-servidor. Esta comunicación permite la interacción del usuario con los contenidos alojados en bases de datos, el registro de nuevo contenido y de cuentas de usuario. 
+            |En la parte del cliente estaríamos hablando de HTML y CSS, código básico para creación de páginas <i>web</i>, y JavaScript y DOM, para la interacción con el usuario. En la parte del servidor se trabaja con código más complejo, como es PHP, ASP.NET, JSP, etc. Con este código se construye el <i>back-end</i>, la parte de la <i>web</i> que el usuario no ve. Su objetivo es el diseño de bases de datos y asegurar la seguridad de la <i>web</i>. Cuando ambas partes se comunican, se habla de programación cliente-servidor. Esta comunicación permite la interacción del usuario con los contenidos alojados en bases de datos, el registro de nuevo contenido y de cuentas de usuario. (Barba, p. 8). 
     p.mb-5 A la hora de diseñar un sitio <i>web</i> se debe tener en cuenta los principios clave para que el usuario al que está dirigido pueda realizar todas las actividades o procesos dispuestos por el diseñador de la <i>web</i> en cuestión. A continuación, se exponen los tres aspectos que se deben tener en cuenta en el diseño <i>web</i> y a los cuales se les conoce como los 
       b principios de diseño <i>web</i>.
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg--gris2")
       .row(titulo="Navegabilidad").px-5
         .col-md-7.mb-4.mb-md-0
-          p Es la forma en la que el usuario puede desplazarse por un sitio web, partiendo de la facilidad con puede realizar las acciones que tiene como objetivo la página. 
+          p Es la forma en la que el usuario puede desplazarse por un sitio <i>web</i>, partiendo de la facilidad con que puede realizar las acciones que tiene como objetivo la página. 
             br
             br
-            |Para ser fácilmente navegable, un sitio web debe proporcionar recursos y estrategias de navegación que faciliten la localización de la información y la orientación para el usuario. Una web navegable debe responder fácilmente a tres preguntas: ¿dónde estoy? ¿dónde he estado? y ¿dónde puedo ir?.
+            |Para ser fácilmente navegable, un sitio <i>web</i> debe proporcionar recursos y estrategias de navegación que faciliten la localización de la información y la orientación para el usuario. Una <i>web</i> navegable debe responder fácilmente a tres preguntas: ¿dónde estoy? ¿dónde he estado? y a ¿dónde puedo ir?
 
         .col-md-5
           figure
@@ -719,7 +717,7 @@
           p Uno de los investigadores más importantes en este campo a nivel mundial, apoya la idea de la usabilidad como signo de calidad en un sitio web y la define como “todos aquellos procedimientos que persiguen mejorar la facilidad de uso para el usuario durante el proceso de navegación'' (Nielsen, 2003). También señala que entre las diversas dimensiones que determinan la usabilidad debe destacarse, por su importancia, la orientación al usuario.
             br
             br
-            |Por su parte, Shackel (1991) destaca como aspectos importantes de la usabilidad los siguientes:
+            |Por su parte, Shackel (1991), destaca como aspectos importantes de la usabilidad los siguientes:
           ul.lista-ul--color.color1
             li 
               i.fas.fa-angle-right
@@ -747,11 +745,11 @@
           ModalA(:abrir-modal.sync="modal1")
             figure
               img(src='@/assets/curso/img35.png', alt='Texto que describa la imagen')
-    h3 Arquitectura web
-    p.mb-5 El diseño y la arquitectura de información de las páginas web son “el resultado de la actividad de clasificar, describir, estructurar y etiquetar los contenidos del sitio”. (Leyva, Alarcón, Barrera & Ortegón, 2017).
+    h3 Arquitectura <i>web</i>
+    p.mb-5 El diseño y la arquitectura de información de las páginas <i>web</i> son “el resultado de la actividad de clasificar, describir, estructurar y etiquetar los contenidos del sitio”. (Leyva, Alarcón, Barrera & Ortegón, 2017).
       br
       br
-      |Antes de proyectar o diseñar una página web, es necesario seguir los lineamientos de la etapa de creación, tal como se observa en la siguiente figura.
+      |Antes de proyectar o diseñar una página <i>web</i>, es necesario seguir los lineamientos de la etapa de creación, tal como se observa en la siguiente figura.
     .titulo-sexto.color-acento-contenido
       h5.fw-normal 
         b Figura 6   
@@ -765,7 +763,7 @@
             img(src='@/assets/curso/img41.svg' alt='AvatarTop')
           .tarjeta.color-primario
             .text-white.p-4
-              p Es necesario hacer un análisis de la información que contendrá la página. Esto es,  recolectar toda la información posible sobre el contenido; analizar a quién estará dirigida e identificar qué tipo de ideas y valores se quiere valiéndose de herramientas tipográficas, el color y la composición, para que esto se ejecute de una manera simple y precisa. 
+              p Es necesario hacer un análisis de la información que contendrá la página. Esto es,  recolectar toda la información posible sobre el contenido; analizar a quién estará dirigida e identificar qué tipo de ideas y valores se quiere, valiéndose de herramientas tipográficas, el color y la composición, para que esto se ejecute de una manera simple y precisa. 
 
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="slide-down" data-aos-delay="200" data-aos-offset="400" )
         .tarjeta-avatar
@@ -775,7 +773,7 @@
             img(src='@/assets/curso/img42.svg' alt='AvatarTop')
           .tarjeta.color-secundario
             .p-4
-              p Los objetivos fijados deben estar definidos en sí lo que se busca es educar, informar, o simplemente conducir a una acción de compra, donde quizá la marca ya sea conocida y no necesite mas preámbulos
+              p Los objetivos fijados deben estar definidos, en sí lo que se busca es educar, informar, o simplemente conducir a una acción de compra, donde quizá la marca ya sea conocida y no necesite más preámbulos
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="slide-down" data-aos-delay="400" data-aos-offset="600")
         .tarjeta-avatar
           .img1
@@ -784,7 +782,7 @@
             img(src='@/assets/curso/img43.svg' alt='AvatarTop')
           .tarjeta.color-acento-botones
             .p-4
-              p Para lograr crear una estructura con toda la información y elementos recopilados es necesario conocer también herramientas de diseño como el <i>Wireframe</i> y el <i>Mockup</i>; estos bocetos o maquetas permiten visualizar de manera más clara todos los elementos que se incluirán (texto, imágenes, botones, hipervínculos), incluso las páginas con las que se enlazara el contenido, y hacerse una idea cercana al resultado final.
+              p Para lograr crear una estructura con toda la información y elementos recopilados, es necesario conocer también herramientas de diseño como el <i>Wireframe</i> y el <i>Mockup</i>; estos bocetos o maquetas permiten visualizar de manera más clara todos los elementos que se incluirán (texto, imágenes, botones, hipervínculos), incluso las páginas con las que se enlazará el contenido, y hacerse una idea cercana al resultado final.
               .row.justify-content-center.m-auto
                 .col-6
                   a.boton.color-acento-contenido.mb-5.indicador__container.rounded-pill(@click="modal2 = true")
@@ -800,10 +798,10 @@
           h4.mb-0.text-white Wireframe
         .row.mb-5
           .col-lg-8
-            p Prototipo de página web o de una aplicación que se realiza en una plantilla y que no incluye color, tipografía, imágenes o gráficos. Puede realizarse a mano o en el computador y no contempla la funcionalidad de la web.
+            p Prototipo de página <i>web</i> o de una aplicación que se realiza en una plantilla y que no incluye color, tipografía, imágenes o gráficos. Puede realizarse a mano o en el computador y no contempla la funcionalidad de la <i>web</i>.
               br
               br
-              |Antes  de la elaboración del layout (distribución y forma), se crea este esquema básico que permitirá entender cómo quedará el producto final. Así, pueden ser verificados errores o aspectos negativos; el wireframe se modifica las veces necesarias hasta llegar al resultado deseado.
+              |Antes  de la elaboración del <i>layout</i> (distribución y forma), se crea este esquema básico que permitirá entender cómo quedará el producto final. Así, pueden ser verificados errores o aspectos negativos; el <i>wireframe</i> se modifica las veces necesarias hasta llegar al resultado deseado.
           .col-lg-4: img(src='@/assets/curso/img45.svg')
 
     ModalA(:abrir-modal.sync="modal3")
@@ -812,18 +810,18 @@
           h4.mb-0.text-white Mockup
         .row.mb-5
           .col-lg-8
-            p Un mockup es un bosquejo o prototipo que se utiliza en la fase final del desarrollo de webs y aplicaciones y sirve para exhibir o probar un diseño y para conocer la opinión del cliente, los usuarios o consumidores.
+            p Un <i>mockup</i> es un bosquejo o prototipo que se utiliza en la fase final del desarrollo de <i>webs</i> y aplicaciones, y sirve para exhibir o probar un diseño y para conocer la opinión del cliente, los usuarios o consumidores.
               br
               br
-              |Esta maqueta, a diferencia del wireframe, sí integra todos los elementos que contendrá el diseño, acercándose mucho al diseño final. 
+              |Esta maqueta, a diferencia del <i>wireframe</i>, sí integra todos los elementos que contendrá el diseño, acercándose mucho al diseño final. 
               br
               br
-              |Un mockup clásico es estático. Sin embargo, las modernas herramientas de maquetación permiten la integración de funciones simples como los enlaces, de modo que, dependiendo de la complejidad, pueden clasificarse como diseños de mediana a alta fidelidad y bordear los prototipos. A diferencia de la clásica maqueta estática, los prototipos son siempre interactivos y contienen la mayoría de las funciones de la página web o aplicación planificada.
+              |Un <i>mockup</i> clásico es estático. Sin embargo, las modernas herramientas de maquetación permiten la integración de funciones simples como los enlaces, de modo que, dependiendo de la complejidad, pueden clasificarse como diseños de mediana a alta fidelidad y bordear los prototipos. A diferencia de la clásica maqueta estática, los prototipos son siempre interactivos y contienen la mayoría de las funciones de la página <i>web</i> o aplicación planificada.
           .col-lg-4.align-items-end.d-flex: img(src='@/assets/curso/img46.svg')
-    p.mb-5 La arquitectura <i>web</i> incluye también pensar en si el resultado final será un sitio que pueda resolver las necesidades de negocios y servir mejor a las de los clientes. El arquitecto web diseña y coordina el desarrollo de sitios web, ya que estos son una compleja integración de distintos sistemas (bases de datos, servidores, redes, componentes de <i>backup</i> y seguridad, etc.)
+    p.mb-5 La arquitectura <i>web</i> incluye también pensar en si el resultado final será un sitio que pueda resolver las necesidades de negocios y servir mejor a las de los clientes. El arquitecto <i>web</i> diseña y coordina el desarrollo de sitios <i>web</i>, ya que estos son una compleja integración de distintos sistemas (bases de datos, servidores, redes, componentes de <i>backup</i> y seguridad, etc.).
       br
       br
-      | El desarrollo web requiere de protocolos de comunicación entre dispositivos hardware, conocimientos de lenguajes programación y estructura de bases de datos, el protocolo TCP/IP, el lenguaje HTML y muchos otros.
+      | El desarrollo <i>web</i> requiere de protocolos de comunicación entre dispositivos <i>hardware</i>, conocimientos de lenguajes de programación y estructura de bases de datos, el protocolo TCP/IP, el lenguaje HTML y muchos otros.
     .row.mb-5.justify-content-center(data-aos="zoom-in-up")
       .col-lg-9
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
@@ -832,10 +830,10 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 Las piezas esenciales de la arquitectura <i>web</i> son principalmente: servidores, bases de datos, redes, HTML, componentes de <i>backup</i> y seguridad, inteligencia de contenidos <i>web</i>, organización de componentes y organización de las llamadas a las páginas o <i>Interlinking</i>.  
-    p.mb-5 El concepto de HTML es la pieza más importante que atañe a los contenidos de este programa. Se trata de una sigla que corresponde a Hyper Text Markup Language, es decir, Lenguaje de Marcas de Hipertexto, que podría ser traducido como Lenguaje de Formato de Documentos para Hipertexto. Es el principal lenguaje de marcación que se utiliza para el desarrollo de páginas web.
+    p.mb-5 El concepto de HTML es la pieza más importante que atañe a los contenidos de este programa. Se trata de una sigla que corresponde a <i>Hyper Text Markup Language</i>, es decir, Lenguaje de Marcas de Hipertexto, que podría ser traducido como Lenguaje de Formato de Documentos para Hipertexto. Es el principal lenguaje de marcación que se utiliza para el desarrollo de páginas <i>web</i>.
       br
       br
-      |Una definición bastante descriptiva es la que se encuentra en la web Next U (s.f.), que habla de que el HTML es un lenguaje abstracto que usan las aplicaciones para representar documentos (se les llama documentos a instancias completas, como lo son las páginas web) y que puede ser transmitido fácilmente por algún medio, como Internet. Los navegadores de  Internet. procesan e interpretan documentos descritos en HTML usando un analizador de HTML.
+      |Una definición bastante descriptiva es la que se encuentra en la <i>web</i> Next U (s.f.), que habla de que el HTML es un lenguaje abstracto que usan las aplicaciones para representar documentos (se les llama documentos a instancias completas, como lo son las páginas <i>web</i>) y que puede ser transmitido fácilmente por algún medio, como <i>Internet</i>. Los navegadores de  <i>Internet</i> procesan e interpretan documentos descritos en HTML usando un analizador de HTML.
     .affter1.mb-5
       .bloque-texto-c.color-secundario.px-4.py-4.align-items-center
         .contenido-bloque.m-auto.d-flex
@@ -851,7 +849,7 @@
                 |(https://www.nextu.com/blog/que-es-html/9).
     p.mb-5 En los temas tratados en el Componente Formativo 2 se ampliará la información respecto a este tema y otros aspectos que tienen que ver con el desarrollo web desde el punto de vista técnico.
     h3 Experiencia de usuario (UX)
-    p.mb-5 Según Bigné, Ruiz & Andreu (2004), la experiencia del usuario se refiere a los factores que ejercen influencia en la exploración, la satisfacción y las intenciones de comportamiento o transacciones electrónicas futuras, tanto personales como externas que pueden afectar la experiencia del usuario en una página web.
+    p.mb-5 Según Bigné, Ruiz & Andreu (2004), la experiencia del usuario se refiere a los factores que ejercen influencia en la exploración, la satisfacción y las intenciones de comportamiento o transacciones electrónicas futuras, tanto personales como externas que pueden afectar la experiencia del usuario en una página <i>web</i>.
       br
       br
       |Aunque guarda relación con la usabilidad, el diseño de la experiencia de usuario abarca más aspectos como lo afirma Nielsen (2003):
@@ -867,20 +865,20 @@
       br
       br
       | Una buena experiencia de usuario produce clientes satisfechos que estarán dispuestos a pagar más por productos y servicios de calidad.
-    .col-lg-6
+    .col-lg-6.my-5
       a.anexo.mb-4.mb-lg-0(href="https://www.crehana.com/co/blog/desarrollo-web/reglas-diseno-ux/" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-link.svg")
         .anexo__texto
           p 
-            b Diseño UX 
-            | Para conocer en profundidad las reglas del UX, se puede consultar la información en el artículo al respecto de la web de formación virtual Crehana.com.  
+            b Diseño UX. 
+            | Para conocer en profundidad las reglas del UX, se puede consultar la información en el artículo al respecto de la <i>web</i> de formación virtual Crehana.com.  
     h3 Diseño de contenidos 
-    .row.mb-5
+    .row.mb-5.align-items-end
       .col-lg-6
         p.mb-5 Ahora bien, un aspecto a tener en cuenta, y aunque no se desarrollará con profundidad, es el diseño de contenidos. Sarah Winters, fundadora de Content Design of London, lo define como: 
-        .cajon.color-primario.bg--1-claro.p-4.mb-4
-          p El diseño de contenidos es un planteamiento que comienza con la identificación de la necesidad del usuario para crear un conjunto de textos y elementos visuales que proporcionen una solución del mejor modo posible. El diseño de contenidos piensa más en grande y no se limita solo a la escritura de contenidos útiles y funcionales, sino que identifica la mejor manera de presentarlos para satisfacer las expectativas y necesidades del usuario, ya sea mediante una infografía, un vídeo, un gráfico, un folleto o un artículo.
+        .cajon.color-primario.bg--1-claro.p-4
+          p El diseño de contenidos es un planteamiento que comienza con la identificación de la necesidad del usuario para crear un conjunto de textos y elementos visuales que proporcionen una solución del mejor modo posible. El diseño de contenidos piensa más en grande y no se limita solo a la escritura de contenidos útiles y funcionales, sino que identifica la mejor manera de presentarlos para satisfacer las expectativas y necesidades del usuario, ya sea mediante una infografía, un video, un gráfico, un folleto o un artículo.
       .col-lg-6: img(src='@/assets/curso/img49.jpg')
     h3 Software y herramientas de diseño digital
     p.mb-5 Las herramientas de diseño son elementos, formatos, medios o programas de computador que se pueden usar para diseñar. Pueden influir en el proceso de producción, expresión y percepción de las ideas de diseño y, por lo tanto, deben aplicarse con habilidad. 
@@ -892,21 +890,21 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 Las nuevas ideas pueden surgir experimentando con herramientas y métodos actuales facilitados por la tecnología.
-    p.mb-5 La velocidad en la que avanza la tecnología hace compleja la permanente actualización de las herramientas para todo lo que se refiere al diseño de contenidos para Internet. 
+    p.mb-5 La velocidad en la que avanza la tecnología hace compleja la permanente actualización de las herramientas para todo lo que se refiere al diseño de contenidos para <i>Internet</i>. 
     .col-lg-6.mb-5
       a.anexo.mb-4.mb-lg-0(href="https://graffica.info/herramientas-para-el-disenador-digital" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-link.svg")
         .anexo__texto
           p 
-            b Herramientas de diseño
+            b Herramientas de diseño 
             | Visita la siguiente página y estudia las 10 herramientas fundamentales para el diseñador digital. 
     .row.mb-5
-      .col-lg-4.align-items-center.d-flex.mb-0: img(src='@/assets/curso/img51.png')
+      .col-lg-4.align-items-center.d-flex.mb-md-5: img(src='@/assets/curso/img51.png')
       .col-lg-8
         p.mb-4 Igualmente, otros softwares usados para el diseño gráfico digital son:
-        .row
-          .col-lg-4
+        .row.justify-content-center
+          .col-lg-4.col-6
             .iconos.d-flex.mb-2.align-items-center(data-aos="slide-down" data-aos-delay="100")
               img(src='@/assets/curso/img52.svg' style='width: 85px') 
               h4.mb-0.ms-3 Photoshop
@@ -916,7 +914,7 @@
             .iconos.d-flex.mb-4.align-items-center(data-aos="slide-down" data-aos-delay="300")
               img(src='@/assets/curso/img54.svg' style='width: 85px') 
               h4.mb-0.ms-3 Indesign
-          .col-lg-4 
+          .col-lg-4.col-6
             .iconos.d-flex.mb-2.align-items-center(data-aos="slide-down" data-aos-delay="400")
               img(src='@/assets/curso/img55.svg' style='width: 85px') 
               h4.mb-0.ms-3 Gimp
@@ -926,12 +924,12 @@
             .iconos.d-flex.mb-2.align-items-center(data-aos="slide-down" data-aos-delay="600")
               img(src='@/assets/curso/img57.svg' style='width: 85px') 
               h4.mb-0.ms-3 Canva
-          .col-lg-4 
+          .col-lg-4.col-6 
             .iconos.d-flex.mb-2.align-items-center(data-aos="slide-down" data-aos-delay="700")
-              img(src='@/assets/curso/img58.svg' style='width: 85px') 
+              img(src='@/assets/curso/img59.svg' style='width: 85px') 
               h4.mb-0.ms-3 Fotojet
             .iconos.d-flex.mb-2.align-items-center(data-aos="slide-down" data-aos-delay="800") 
-              img(src='@/assets/curso/img59.svg' style='width: 85px')
+              img(src='@/assets/curso/img58.svg' style='width: 85px')
               h4.mb-0.ms-3 Fotor
 
 
@@ -1015,7 +1013,7 @@ export default {
     background-color: $color-secundario
 .vineta
   position: relative
-  background-color: #DDFFA7
+  background-color: #EDFFD2
   border-radius: 20px
   border: 4px solid #7E9EA1
   bottom: 0

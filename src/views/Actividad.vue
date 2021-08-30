@@ -11,11 +11,11 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Actividad didáctica 
-        p.mb-4 Complete cada una de las oraciones relacionando la columna A con la columna B 
+        p.mb-4 Complete cada una de las oraciones relacionando la columna A con la columna B.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Relacionar conceptos
+              p.fw-bold.mb-0 Probando el conocimiento.
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
