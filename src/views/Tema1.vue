@@ -304,7 +304,7 @@
         b Figura 3  
         | Círculo cromático
     figure.mb-5
-      img(src='@/assets/curso/img14.svg', alt='Texto que describa la imagen')
+      img(src='@/assets/curso/img14.png', alt='Texto que describa la imagen')
     p.mb-5 Existen unas fórmulas basadas en el concepto 
       b “armonía del color”
       |, y que se consiguen a través del uso del círculo cromático:
