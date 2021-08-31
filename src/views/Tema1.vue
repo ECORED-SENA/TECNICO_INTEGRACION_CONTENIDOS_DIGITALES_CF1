@@ -1036,6 +1036,7 @@ export default {
   background-position: bottom
   background-repeat: no-repeat
   min-height: 700px
+
 .tarjeta1
   border-radius: 20px
   position: relative
@@ -1059,4 +1060,12 @@ export default {
     background-color: $color-primario
 .color-verde
   background-color: $color-secundario
+@media (max-width: 992px)
+  .vineta_fondo
+    background-size: 150% 30%
+    background-position: center bottom
+@media (max-width: 576px)
+  .vineta_fondo
+    background-size: 100% 30%
+    background-position: center bottom
 </style>
