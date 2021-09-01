@@ -70,7 +70,7 @@
           figure
             img(src='@/assets/curso/img96.svg' )
         .col-md-8.mb-4.mb-md-0
-          p El más famosos de los tipos de guion, conocido como <i>storyboard</i>, se diferencia del guion cinematográfico porque, tal y como indica su nombre, es un compilado de imágenes que pueden componer con diferentes técnicas visuales (dibujo, ilustración, <i>collage</i>, etc). que nos ayudan a describir el futuro de nuestro contenido audiovisual.
+          p El más famosos de los tipos de guion, conocido como <i>storyboard</i>, se diferencia del guion cinematográfico porque, tal y como indica su nombre, es un compilado de imágenes que pueden componer con diferentes técnicas visuales (dibujo, ilustración, <i>collage</i>, etc.) que nos ayudan a describir el futuro de nuestro contenido audiovisual.
             br
             br
             |Es una herramienta muy eficiente para visualizar el video y se trata de un paso casi imprescindible en las obras de animación. También es importante para coordinar el rodaje con el concepto de arte, por el hecho de desarrollar los decorados físicos como para crearlos mediante la composición digital. Así mismo, los efectos especiales suelen requerir de un guion visual previo, ya que la comunicación entre director, operadores de cámara y especialistas es algo compleja, este guion facilita la comunicación entre las partes.
@@ -78,7 +78,7 @@
             br
             |Los <i>storyboards</i> más habituales son los del <i>american style</i>. Básicamente consisten en un cómic sencillo, con viñetas uniformes y distribuidas en una parrilla regular que ocupa la mayor parte de la página. A diferencia de los cómics clásicos, los diálogos se acostumbran a poner fuera del recuadro donde está la imagen.
           a.boton.color-acento-botones.mb-5.indicador__container.rounded-pill(@click="modal3 = true")
-              span.h5.mb-0 Guion Ilustrado
+              span.h5.mb-0 Guion ilustrado
               .indicador--click(v-if="mostrarIndicador") 
       .row(titulo="Escaleta")
         .col-md-3
@@ -99,7 +99,7 @@
         .anexo__texto
           p 
             b El <i>Storyboard</i>.  
-            | En el siguiente enlace se describe en detalle la información para realizar un storyboard. https://www.ugr.es/~ahorno/STA.pdf
+            | En el siguiente enlace se describe en detalle la información para realizar un <i>storyboard</i>. 
     p.mb-5 El <i>story</i> tiene diversos tipos de formatos que facilitan la comprensión visual de los planos y movimientos de cámara en las escenas, esto según el proyecto, para esto los más utilizados son:
     .titulo-sexto.color-acento-contenido
       h5.fw-normal 

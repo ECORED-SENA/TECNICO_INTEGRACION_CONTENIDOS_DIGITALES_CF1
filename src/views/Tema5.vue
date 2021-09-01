@@ -37,7 +37,7 @@
     #t_5_2.titulo-segundo
       h2 5.2 Plan de medios digitales
     .row.mb-5
-      .col-lg-6: img(src='@/assets/curso/img103.jpg')(data-aos="zoom-in-up")
+      .col-lg-6: img(src='@/assets/curso/img103.jpg')(data-aos="zoom-in-up").mb-5
       .col-lg-6
         p El Plan Estratégico de <i>Marketing</i> Digital, es un documento en el cual se estudia el proyecto a profundidad, se analiza qué está pasando en la actualidad, la competencia y modelos de negocio similares y los objetivos que queremos alcanzar, con todo ello, se realiza un plan de acción para que, a través de los distintos canales y estrategias de <i>marketing</i> digitales (redes sociales, buscadores, <i>email</i>...), se consigan los objetivos propuestos.
           br
@@ -56,7 +56,7 @@
       .row
         .col-md-4.mb-4.mb-md-0
           h4 Objetivos del negocio
-          p Se fijan los objetivos que se desean alcanzar para posteriormente elaborar el Plan Estratégico de Marketing con base en estos objetivos.
+          p Se fijan los objetivos que se desean alcanzar para posteriormente elaborar el Plan Estratégico de <i>Marketing</i> con base en estos objetivos.
         .col-md-8
           figure
             img(src='@/assets/curso/img105.svg', alt='Texto que describa la imagen')
@@ -98,7 +98,7 @@
       .row
         .col-md-4.mb-4.mb-md-0
           h4 Estrategias de <i>Inbound Marketing</i>
-          p Atraer a potenciales clientes mediante contenidos digitales de calidad que ellos están consumiendo de manera voluntaria y a partir de aquí seguir “seduciendo” al lector para convertirlo de extraño a visitante regular de la web, de visitante de la web a “lead” (potencial cliente que nos ha dejado sus datos de contacto) de “lead” a cliente y de cliente a promotor o prescriptor de nuestra empresa a través de comentarios o acciones virtuales.
+          p Atraer a potenciales clientes mediante contenidos digitales de calidad que ellos están consumiendo de manera voluntaria y a partir de aquí seguir “seduciendo” al lector para convertirlo de extraño a visitante regular de la <i>web</i>, de visitante de la <i>web</i> a <i>“lead”</i> (potencial cliente que nos ha dejado sus datos de contacto) de <i>“lead”</i> a cliente y de cliente a promotor o prescriptor de nuestra empresa a través de comentarios o acciones virtuales.
         .col-md-8
           figure
             img(src='@/assets/curso/img111.svg', alt='Texto que describa la imagen')
@@ -112,7 +112,7 @@
       .row
         .col-md-4.mb-4.mb-md-0
           h4 Seguimiento de la reputación <i>online</i>
-          p Se hace referencia a todo lo que pasa en el entorno global de <i>Internet</i> acerca de  una marca, las acciones necesarias  para conseguir mantener en el tiempo una reputación positiva en la red, dar respuesta de manera rápida y eficaz a posibles problemas o crisis de reputación y supervisar  todas las interacciones alrededor de  una marca para ser consciente de los problemas a los que se puede enfrentar. Es un análisis de cómo gestionar la reputación <i>on line</i> y manejar situaciones de crisis.
+          p Se hace referencia a todo lo que pasa en el entorno global de <i>Internet</i> acerca de  una marca, las acciones necesarias  para conseguir mantener en el tiempo una reputación positiva en la red, dar respuesta de manera rápida y eficaz a posibles problemas o crisis de reputación y supervisar  todas las interacciones alrededor de  una marca para ser consciente de los problemas a los que se puede enfrentar. Es un análisis de cómo gestionar la reputación <i>online</i> y manejar situaciones de crisis.
         .col-md-8
           figure
             img(src='@/assets/curso/img113.svg', alt='Texto que describa la imagen')

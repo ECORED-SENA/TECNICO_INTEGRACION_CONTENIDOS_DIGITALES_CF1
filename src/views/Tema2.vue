@@ -55,7 +55,7 @@
       b “Breve introducción al lenguaje audiovisual” 
       |está editado por la Junta de Castilla y León (España) y detalla de manera suficiente, todos los componentes del lenguaje audiovisual. A partir de la revisión del documento se propondrán actividades prácticas que permitan una mejor comprensión.
     .col-lg-6.mb-5
-      a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/introduccion_lenguaje_audiovisual.pdf' )" target="_blank")
+      a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/introduccion_lenguaje_audiovisual.pdf')" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-link.svg")
         .anexo__texto

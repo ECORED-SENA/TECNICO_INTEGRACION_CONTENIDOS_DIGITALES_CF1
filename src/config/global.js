@@ -167,7 +167,7 @@ export default {
     },
     {
       referencia:
-        'Nielsen, J. (2003). Usability 101: <i>Introduction to usability</i>. Nielsen Norman Group. ',
+        'Nielsen, J. (2003). <i>Usability</i> 101: <i>Introduction to usability</i>. Nielsen Norman Group. ',
       link: '',
     },
     {
@@ -277,7 +277,7 @@ export default {
         'https://edu.gcfglobal.org/es/conceptos-basicos-de-diseno-grafico/teoria-del-color/1/',
     },
     {
-      texto: 'MDN Web Docs',
+      texto: 'MDN Web Docs.',
       tipo: 'Página web',
       link:
         'https://developer.mozilla.org/es/docs/Learn/CSS/Styling_text/Web_fonts',
@@ -292,7 +292,7 @@ export default {
       texto:
         'Leyva Vallejo, K., Alarcón Barrera, L. y Ortegón Cortázar, L. (2016). Exploración del diseño y arquitectura web: aplicación a páginas electrónicas del sector bancario desde la perspectiva del usuario. Revista Escuela de Administración de Negocios, (80), 41-58.',
       tipo: 'Revista Digital',
-      link: '/downloads/exploracion-diseno.pdf',
+      descarga: '/downloads/exploracion-diseno.pdf',
     },
     {
       texto: 'Cronuts Digital Consultora. (s.f.). ',
@@ -326,6 +326,28 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Paulo César Hernández G.',
+        cargo: 'Experto temático',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Miroslava González Hernández',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora Metodológica y pedagógica',
+        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
+        cargo: 'Revisión de estilo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
     ],
     desarrolloProducto: [
       {
@@ -347,7 +369,13 @@ export default {
       },
       {
         nombre: 'Camilo Andrés Bolaño Rey',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -391,7 +419,7 @@ export default {
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

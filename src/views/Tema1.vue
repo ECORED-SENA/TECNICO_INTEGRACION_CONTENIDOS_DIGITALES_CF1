@@ -26,41 +26,41 @@
     p.mb-5 El desarrollo del diseño gráfico como campo creativo específico, puede entenderse estudiando su trayectoria a lo largo de la historia. 
     .tarjeta.tarjeta--gris.p-4.mb-5
       LineaTiempoC.color-acento-contenido(text-small)(data-aos="zoom-in")
-        .row(titulo="Prehistoria").justify-content-center
+        .row(titulo="Prehistoria").justify-content-center.align-items-center
           .col-md-4
             figure
               img(src='@/assets/curso/img1.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
             p La comunicación gráfica, que ha acompañado al hombre desde hace mucho tiempo, se remonta a la época de las pinturas rupestres. Al comienzo sólo fueron trazos en las cavernas de la prehistoria, con algún tipo de significado religioso. 
 
-        .row(titulo="Antiguo Egipto").justify-content-center
+        .row(titulo="Antiguo Egipto").justify-content-center.align-items-center
           .col-md-4
             figure
               img(src='@/assets/curso/img2.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
             p Los antiguos egipcios se comunicaban por medio de jeroglíficos que tallaban también en piedra, luego utilizaron otros materiales como el papiro.
-        .row(titulo="Edad media").justify-content-center
+        .row(titulo="Edad media").justify-content-center.align-items-center
           .col-md-4
             figure
               img(src='@/assets/curso/img3.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
             p En la edad media las obras escritas alcanzaron mayor poder comunicativo gracias al color, las ilustraciones, además de otros elementos gráficos usados de forma armoniosa y equilibrada en el documento.
 
-        .row(titulo="Siglo XV (año 1440)").justify-content-center
+        .row(titulo="Siglo XV (año 1440)").justify-content-center.align-items-center
           .col-md-4
             figure
               img(src='@/assets/curso/img4.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
             p Durante la primera mitad del siglo XV (año 1440) aparece la imprenta, invento del alemán Johannes Gutenberg, permitiendo agilizar y masificar la elaboración de documentos al igual que el alcance de su mensaje.
 
-        .row(titulo="Siglo XIX ").justify-content-center
+        .row(titulo="Siglo XIX ").justify-content-center.align-items-center
           .col-md-4
             figure
               img(src='@/assets/curso/img5.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
             p A finales del siglo XIX, la revolución industrial provocó profundos cambios en el desarrollo tecnológico. Se originó la necesidad de poseer un estilo propio que representa la idiosincrasia de cada región, de esta manera nace el Modernismo.
 
-        .row(titulo="Modernismo 1918-1933").justify-content-center
+        .row(titulo="Modernismo 1918-1933").justify-content-center.align-items-center
           .col-md-4
             figure
               img(src='@/assets/curso/img6.jpg', alt='Texto que describa la imagen')
@@ -68,12 +68,12 @@
             p Conocido también como “Art Nouveau”, según Droste (2006), se buscaba fusionar el arte con la vida, utilizando elementos de la naturaleza para darle protagonismo al componente orgánico. En 1919 Walter Gropius creó la escuela Bauhaus, que se convirtió en el motor y el modelo ejemplar de la reforma de formación artística antiacadémica de la república de Weimar (dícese del período de la historia de Alemania comprendido entre 1918 y 1933, tras la derrota del país en la Primera Guerra Mundial).  
               br
               br
-              |La Bauhaus combinaba diseño, arte y arquitectura, estudiaba la forma, el color, los materiales, la composición y el espacio influenciados por el constructivismo. Finalmente, la escuela cierra sus puertas en Berlín en 1933 (p.15).                                                                                                      
+              |La Bauhaus combinaba diseño, arte y arquitectura, estudiaba la forma, el color, los materiales, la composición y el espacio influenciados por el constructivismo. Finalmente, la escuela cierra sus puertas en Berlín en 1933 (p. 15).                                                                                                      
               br
               br
               |Mientras en Alemania se desarrollaba la Bauhaus, en Francia aparecía el movimiento “Art decó”, que se dio a conocer en la exposición internacional de las artes decorativas e industriales modernas de 1925. 
 
-        .row(titulo="La época del diseño (1940)").justify-content-center
+        .row(titulo="La época del diseño (1940)").justify-content-center.align-items-center
           .col-md-4
             figure
               img(src='@/assets/curso/img7.jpg', alt='Texto que describa la imagen')
@@ -190,7 +190,7 @@
           p El color es el resultado de la descomposición de la luz blanca. Un rayo de luz blanca, solar, al atravesar un prisma se des­compone en varios colores… Llamamos color luz al fenómeno óptico de reflexión de la luz sobre los cuerpos, que al llegar a nuestra retina, nos permite captar ciertos estímulos que luego son interpretados como color por nuestro cerebro. (Hernández Rentería,1976, p. 8).
         p.mb-4 En la retina hay unas células llamadas conos que reaccionan de diferente forma según la longitud de onda de la radiación que les llegue. Esto se debe a que los conos poseen distintas sustancias sensibles a una longitud de onda determinada, aunque, en menor medida, también reaccionan ante longitudes de onda próximas por encima y por debajo.
         .cajon.color-primario.bg--1-claro.p-4.mb-4
-          p La percepción del color implica que nos lleguen ondas luminosas a los ojos, donde se convierten en impulsos nerviosos que se envían al cerebro para que sean interpretados y nos produzcan la sensación del color. (UCA, s.f., p.15).
+          p La percepción del color implica que nos lleguen ondas luminosas a los ojos, donde se convierten en impulsos nerviosos que se envían al cerebro para que sean interpretados y nos produzcan la sensación del color. (UCA, s.f., p. 15).
       .col-md-6: img(src='@/assets/curso/img9.jpg', alt='Texto que describa la imagen')
     p.mb-5 Isaac Newton fue quien descubrió que la luz blanca del sol al ser refractada, es decir, al cambiar de dirección pasando oblicuamente de un medio a otro con diferente densidad, se dividía en cada uno de los colores con una frecuencia distinta de luz, dependiendo de una mayor o menor desviación.
       br
@@ -248,54 +248,62 @@
         p Representa la intensidad o palidez de un tono; tiene que ver con la pureza del color respecto del gris. Mientras más gris, menos saturado es.
     p.mb-5 Ahora bien, el uso del color en el diseño está basado en la selección correcta de los mismos  con el objetivo de lograr en el receptor, un efecto determinado. Este proceso contempla varios aspectos que se tratarán a continuación:
     .psicologia-color.d-flex.mb-5
-      .cuadros-p.cuadros-p--rojo.p-5.d-flex
+      .cuadros-p.cuadros-p--rojo.d-flex
         .cuadros-p_titulo.m-auto
           h6.text-white  Rojo
-        .cuadros-p_textos.text-white.m-auto
-          h6 Rojo
-          p El color de todas las pasiones: del amor al odio. El color de los reyes y del comunismo, de las alegrías y del peligro. (Heller, 2008, p. 51). El rojo expresa peligro, pasión, dinamismo, calidez y agresividad; aunque es un color que puede causar fatiga, es utilizado por su gran particularidad de llamar mucho la atención.
-      .cuadros-p.cuadros-p--naranja.p-5.d-flex
+        .cuadros-p__textos__container
+          .cuadros-p_textos.text-white.m-auto
+            h6 Rojo
+            p El color de todas las pasiones: del amor al odio. El color de los reyes y del comunismo, de las alegrías y del peligro. (Heller, 2008, p. 51). El rojo expresa peligro, pasión, dinamismo, calidez y agresividad; aunque es un color que puede causar fatiga, es utilizado por su gran particularidad de llamar mucho la atención.
+      .cuadros-p.cuadros-p--naranja.d-flex
         .cuadros-p_titulo.m-auto
           h6.text-white  Naranja
-        .cuadros-p_textos.text-white.m-auto
-          h6 Naranja
-          p Color de la diversión y del budismo. Exótico y llamativo, pero subestimado. (Heller, 2008, p. 179). Está asociado con la juventud; resulta de mezclar rojo y amarillo, dos colores opuestos que se contraponen en muchos de sus significados y asociaciones. Se trata de un color muy singular que incluso altera la percepción.
-      .cuadros-p.cuadros-p--amarillo.p-5.d-flex
+        .cuadros-p__textos__container
+          .cuadros-p_textos.text-white.m-auto
+            h6 Naranja
+            p Color de la diversión y del budismo. Exótico y llamativo, pero subestimado. (Heller, 2008, p. 179). Está asociado con la juventud; resulta de mezclar rojo y amarillo, dos colores opuestos que se contraponen en muchos de sus significados y asociaciones. Se trata de un color muy singular que incluso altera la percepción.
+      .cuadros-p.cuadros-p--amarillo.d-flex
         .cuadros-p_titulo.m-auto
           h6  Amarillo
-        .cuadros-p_textos.m-auto
-          h6 Amarillo
-          p El color más contradictorio, pues significa optimismo y celos; diversión, entendimiento y traición. El amarillo del oro y el amarillo del azufre. (Heller, 2008, p. 83). Es el color más brillante y energizante de los colores cálidos: alegre, estimulante, expansivo, es acción, poder, fuerza, voluntad, estímulo y se asocia con la idea de liberación.
-      .cuadros-p.cuadros-p--verde.p-5.d-flex
+        .cuadros-p__textos__container
+          .cuadros-p_textos.m-auto
+            h6 Amarillo
+            p El color más contradictorio, pues significa optimismo y celos; diversión, entendimiento y traición. El amarillo del oro y el amarillo del azufre. (Heller, 2008, p. 83). Es el color más brillante y energizante de los colores cálidos: alegre, estimulante, expansivo, es acción, poder, fuerza, voluntad, estímulo y se asocia con la idea de liberación.
+      .cuadros-p.cuadros-p--verde.d-flex
         .cuadros-p_titulo.m-auto
           h6.text-white  Verde
-        .cuadros-p_textos.text-white.m-auto
-          h6 Verde
-          p El color de la fertilidad, la esperanza y de la burguesía. Verde sagrado y verde venenoso. El color intermedio. (Heller, 2008, p. 103). El verde es un color relajante y refrescante que induce a quien lo contempla sensaciones de serenidad y armonía. Está íntimamente relacionado con todo lo natural, simbolizando también la vida, la fertilidad y la buena salud. Es también un color muy variable porque tan solo una pizca de azul convierte el amarillo en verde, en cambio puede contener varios colores como blanco, negro, marrón o rojo, sin dejar de ser nunca verde.
-      .cuadros-p.cuadros-p--azul.p-5.d-flex
+        .cuadros-p__textos__container
+          .cuadros-p_textos.text-white.m-auto
+            h6 Verde
+              p El color de la fertilidad, la esperanza y de la burguesía. Verde sagrado y verde venenoso. El color intermedio. (Heller, 2008, p. 103). El verde es un color relajante y refrescante que induce a quien lo contempla sensaciones de serenidad y armonía. Está íntimamente relacionado con todo lo natural, simbolizando también la vida, la fertilidad y la buena salud. Es también un color muy variable porque tan solo una pizca de azul convierte el amarillo en verde, en cambio puede contener varios colores como blanco, negro, marrón o rojo, sin dejar de ser nunca verde.
+      .cuadros-p.cuadros-p--azul.d-flex
         .cuadros-p_titulo.m-auto
           h6.text-white  Azul
-        .cuadros-p_textos.text-white.m-auto
-          h6 Azul 
-          p Uno de los colores preferidos; el color de la simpatía, la armonía y la fidelidad, pese a ser frío y distante. Del azul real al azul de los tejanos. (Heller, 2008, p. 17). El azul es un color que inspira confianza, se asocia con la fantasía, la estabilidad, la armonía, la paz y la calma, es el color de las buenas cualidades y los buenos sentimientos. También puede tener algunos significados negativos, como la depresión, y puede provocar una sensación de frialdad.
-      .cuadros-p.cuadros-p--morado.p-5.d-flex
+        .cuadros-p__textos__container
+          .cuadros-p_textos.text-white.m-auto
+            h6 Azul 
+            p Uno de los colores preferidos; el color de la simpatía, la armonía y la fidelidad, pese a ser frío y distante. Del azul real al azul de los tejanos. (Heller, 2008, p. 17). El azul es un color que inspira confianza, se asocia con la fantasía, la estabilidad, la armonía, la paz y la calma, es el color de las buenas cualidades y los buenos sentimientos. También puede tener algunos significados negativos, como la depresión, y puede provocar una sensación de frialdad.
+      .cuadros-p.cuadros-p--morado.d-flex
         .cuadros-p_titulo.m-auto
-          h6.text-white Violeta 
-        .cuadros-p_textos.text-white.m-auto
-          h6 Violeta
-          p Del púrpura del poder al color de la teología, la magia, el feminismo y el movimiento gay. (Heller, 2008, p. 191). El púrpura es un color real y se le relaciona con la nobleza, el lujo, la sabiduría y la espiritualidad.
-      .cuadros-p.cuadros-p--negro.p-5.d-flex
+          h6.text-white Violeta
+        .cuadros-p__textos__container 
+          .cuadros-p_textos.text-white.m-auto
+            h6 Violeta
+            p Del púrpura del poder al color de la teología, la magia, el feminismo y el movimiento gay. (Heller, 2008, p. 191). El púrpura es un color real y se le relaciona con la nobleza, el lujo, la sabiduría y la espiritualidad.
+      .cuadros-p.cuadros-p--negro.d-flex
         .cuadros-p_titulo.m-auto
           h6.text-white  Negro
-        .cuadros-p_textos.text-white.m-auto
-          h6 Negro
-          p El color del poder, de la violencia y de la muerte. El color favorito de los diseñadores y de la juventud. El color de la negación y de la elegancia. ¿Es el negro propiamente un color? (Heller, 2008, p. 125). Simboliza el misterio, el poder, la elegancia, la sofisticación, la muerte, el error, el mal, la negación y el universo. Por el contrario, el color negro también puede evocar emociones como la tristeza y la ira.
-      .cuadros-p.cuadros-p--blanco.p-5.d-flex
+        .cuadros-p__textos__container
+          .cuadros-p_textos.text-white.m-auto
+            h6 Negro
+            p El color del poder, de la violencia y de la muerte. El color favorito de los diseñadores y de la juventud. El color de la negación y de la elegancia. ¿Es el negro propiamente un color? (Heller, 2008, p. 125). Simboliza el misterio, el poder, la elegancia, la sofisticación, la muerte, el error, el mal, la negación y el universo. Por el contrario, el color negro también puede evocar emociones como la tristeza y la ira.
+      .cuadros-p.cuadros-p--blanco.d-flex
         .cuadros-p_titulo.m-auto
           h6 Blanco
-        .cuadros-p_textos.m-auto
-          h6 Blanco
-          p Representa lo femenino, la inocencia. El color del bien y de los espíritus. El color más importante de los pintores. (Heller, 2008, p. 153). El color blanco también tiene un lado negativo, donde simboliza la esterilidad y el frío. Sin embargo, se debe tener en cuenta que este es el significado en la cultura occidental. En otras partes del mundo el blanco tiene el significado opuesto.
+        .cuadros-p__textos__container
+          .cuadros-p_textos.m-auto
+            h6 Blanco
+            p Representa lo femenino, la inocencia. El color del bien y de los espíritus. El color más importante de los pintores. (Heller, 2008, p. 153). El color blanco también tiene un lado negativo, donde simboliza la esterilidad y el frío. Sin embargo, se debe tener en cuenta que este es el significado en la cultura occidental. En otras partes del mundo el blanco tiene el significado opuesto.
     p.mb-5 Una vez se comprende el uso de cada color, se hace necesario el conocer la base de ellos, la cual se da a través del 
       b círculo cromático
       |, el cual es un esquema gráfico formado por una superficie geométrica circular que sirve para ordenar los colores primarios y secundarios. Los colores que se encuentran enfrentados en él, se llaman colores complementarios y se definen así cuando no contienen ninguna cantidad del color opuesto. Así, el color complementario del azul cian es el rojo; el magenta es el complementario del verde y el amarillo lo es del violeta. La siguiente figura ilustra cómo está formado el círculo cromático.    
@@ -570,7 +578,7 @@
           figure
             img(src='@/assets/curso/img28.jpg', alt='Texto que describa la imagen')
             figcaption Nota. Tomado de Hemisferio digital (2017).
-      .row(titulo="Psicología de la tipografia")
+      .row(titulo="Psicología de la tipografía")
         .col-md-9.mb-4.mb-md-0
           p Al igual que en el caso del color, la selección de la tipografía está relacionada con la idea o mensaje que se quiere transmitir, puesto que cada  tipo de letra produce sensaciones y valores perceptibles. 
             br
@@ -697,7 +705,7 @@
           p Es la forma en la que el usuario puede desplazarse por un sitio <i>web</i>, partiendo de la facilidad con que puede realizar las acciones que tiene como objetivo la página. 
             br
             br
-            |Para ser fácilmente navegable, un sitio <i>web</i> debe proporcionar recursos y estrategias de navegación que faciliten la localización de la información y la orientación para el usuario. Una <i>web</i> navegable debe responder fácilmente a tres preguntas: ¿dónde estoy? ¿dónde he estado? y a ¿dónde puedo ir?
+            |Para ser fácilmente navegable, un sitio <i>web</i> debe proporcionar recursos y estrategias de navegación que faciliten la localización de la información y la orientación para el usuario. Una <i>web</i> navegable debe responder fácilmente a tres preguntas: ¿dónde estoy? ¿dónde he estado? y ¿a dónde puedo ir?
 
         .col-md-5
           figure
@@ -773,7 +781,7 @@
             img(src='@/assets/curso/img42.svg' alt='AvatarTop')
           .tarjeta.color-secundario
             .p-4
-              p Los objetivos fijados deben estar definidos, en sí lo que se busca es educar, informar, o simplemente conducir a una acción de compra, donde quizá la marca ya sea conocida y no necesite más preámbulos
+              p Los objetivos fijados deben estar definidos, en si lo que se busca es educar, informar, o simplemente conducir a una acción de compra, donde quizá la marca ya sea conocida y no necesite más preámbulos
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="slide-down" data-aos-delay="400" data-aos-offset="600")
         .tarjeta-avatar
           .img1
@@ -897,12 +905,12 @@
           img(src="@/assets/template/icono-link.svg")
         .anexo__texto
           p 
-            b Herramientas de diseño 
+            b Herramientas de diseño. 
             | Visita la siguiente página y estudia las 10 herramientas fundamentales para el diseñador digital. 
     .row.mb-5
       .col-lg-4.align-items-center.d-flex.mb-md-5: img(src='@/assets/curso/img51.png')
       .col-lg-8
-        p.mb-4 Igualmente, otros softwares usados para el diseño gráfico digital son:
+        p.mb-4 Igualmente, otros <i>softwares</i> usados para el diseño gráfico digital son:
         .row.justify-content-center
           .col-lg-4.col-6
             .iconos.d-flex.mb-2.align-items-center(data-aos="slide-down" data-aos-delay="100")

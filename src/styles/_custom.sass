@@ -18,19 +18,22 @@
 .psicologia-color
   
   .cuadros-p
-    flex-grow: 0
+    padding: 25px
+    align-items: center
+    flex-grow: 1
     overflow: hidden
-    transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out
     min-height: 452px
-    width: 
-    &:hover 
-      flex-grow: 4
-      width: fit-content
-    &:hover  .cuadros-p_textos
-      opacity: 1
-      display: block
-    &:hover  .cuadros-p_titulo
-      display: none
+    &:hover
+      flex-grow: 50
+      .cuadros-p__textos__container
+        opacity: 1
+        position: relative
+        transition: opacity 0.5s ease-in-out
+        .cuadros-p_textos
+          transform: translateY(-50%)
+      .cuadros-p_titulo
+        display: none
     &_titulo
       display: block
     &--rojo
@@ -48,9 +51,22 @@
     &--negro
       background-color: black
     &--blanco
-      backgroud-color: white
+      background-color: white
+    &__textos__container
+      width: 100%
+      position: absolute
+      opacity: 0
     &_textos
-      display: none
+      position: absolute
+      
+  @media (max-width: $bp-max-lg)
+    flex-direction: column
+    .cuadros-p
+      min-height: auto
+      &:hover 
+        .cuadros-p_textos
+          position: relative 
+          transform: translateY(0) !important 
 .slyder-a__btn--sigt
   right: 0 !important
   opacity: 1 !important
@@ -74,4 +90,8 @@
     width: 53.666667%
   .banner-principal__info
     padding-left: 150px !important
-
+@keyframes opacidad
+  0%
+    opacity: 0
+  100%
+    opacity: 1

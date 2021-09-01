@@ -98,7 +98,7 @@ export default {
     bottom: 100%
     left: 50%
     background-color: #E5EBEC
-    max-width: 500px
+    width: 500px
     font-weight: bold
     text-align: center
     z-index: 100
@@ -107,4 +107,7 @@ export default {
     transform: translate(-50%)
     p
       line-height: 1.2em
+@media (max-width: $bp-max-md)
+  .btns__text
+    width: 200px
 </style>

@@ -99,21 +99,24 @@ export default {
 .contenedor-imagenes
   position: relative
 .imagen_flotante
-  animation: float 6s ease-in-out infinite
   &_1
+    animation: float 6s ease-in-out infinite
     position: absolute
     top: 270px
     left: 250px
   &_2
+    animation: float2 6s ease-in-out infinite
     top: 120px
     left: 100px
 
     position: absolute
   &_3
+    animation: float2 6s ease-in-out infinite
     top: 290px
     left: 100px
     position: absolute
   &_4
+    animation: float 6s ease-in-out infinite
     position: absolute
     top: 100px
     left: 380px
@@ -126,4 +129,13 @@ export default {
 
 	100%
 		transform: translatey(s0px)
+@keyframes float2
+	0%
+		transform: translatey(-20px)
+
+	50%
+		transform: translatey(0px)
+
+	100%
+		transform: translatey(-20px)
 </style>
