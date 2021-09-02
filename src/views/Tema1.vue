@@ -851,11 +851,12 @@
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               p.mb-0  El lenguaje HTML está definido por lo que se llama etiquetas, cuyo nombre se delimita usando los símbolos < y >, de la siguiente forma: 
                 b &lt;etiqueta&gt;
-                |. Dichas etiquetas se utilizan para describir algo que se quiere representar en una página web. 
-                b Por ejemplo: &lt;title &gt;"Internet básico, email, descargas y compras en línea &lt;/title/gt; En este ejemplo, la etiqueta "&lt;title&gt;"se usa para indicar que lo que se pondrá a continuación es el título de la página 
+                |. Dichas etiquetas se utilizan para describir algo que se quiere representar en una página 
+                span.fst-italic web. 
+                b Por ejemplo: &lt;title&gt;Internet básico, email, descargas y compras en línea &lt;/title/&gt;. En este ejemplo, la etiqueta "&lt;title&gt;" se usa para indicar que lo que se pondrá a continuación es el título de la página 
                 span.fst-italic web 
                 |(https://www.nextu.com/blog/que-es-html/9).
-    p.mb-5 En los temas tratados en el Componente Formativo 2 se ampliará la información respecto a este tema y otros aspectos que tienen que ver con el desarrollo web desde el punto de vista técnico.
+    p.mb-5 En los temas tratados en el Componente Formativo 2 se ampliará la información respecto a este tema y otros aspectos que tienen que ver con el desarrollo <i>web</i> desde el punto de vista técnico.
     h3 Experiencia de usuario (UX)
     p.mb-5 Según Bigné, Ruiz & Andreu (2004), la experiencia del usuario se refiere a los factores que ejercen influencia en la exploración, la satisfacción y las intenciones de comportamiento o transacciones electrónicas futuras, tanto personales como externas que pueden afectar la experiencia del usuario en una página <i>web</i>.
       br

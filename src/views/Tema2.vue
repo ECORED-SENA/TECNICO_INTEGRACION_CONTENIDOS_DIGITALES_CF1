@@ -60,8 +60,7 @@
           img(src="@/assets/template/icono-link.svg")
         .anexo__texto
           p 
-            b Introducción al lenguaje audiovisual
-            |  http://www.educa.jcyl.es/educacyl/cm/gallery/leer-la-imagen/6_P_Realidad_o_ficcion_El_vendedor_de_humo/assets/anexo.-breve-introduccion-al-lenguaje-audiovisual.pdf
+            b Introducción al lenguaje audiovisual.
     .row.mb-5
       .col-lg-6.mb-5: img(src='@/assets/curso/img64.jpg')(data-aos="zoom-in-up" )
       .col-lg-6.mb-5

@@ -330,7 +330,7 @@ export default {
         nombre: 'Paulo César Hernández G.',
         cargo: 'Experto temático',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Miroslava González Hernández',
@@ -339,7 +339,7 @@ export default {
       },
       {
         nombre: 'Carolina Coca Salazar',
-        cargo: 'Revisora Metodológica y pedagógica',
+        cargo: 'Revisora metodológica y pedagógica',
         centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
       },
       {
