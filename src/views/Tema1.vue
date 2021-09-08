@@ -7,7 +7,7 @@
         span 1
       h1 Diseño
     p.mb-5 La comunicación es una necesidad innata en los humanos como seres sociales, y es también una herramienta fundamental de la vida en comunidad. A lo largo de la historia de la humanidad, la comunicación ha permitido que se gesten todos los desarrollos que conforman el mundo actual. En las distintas épocas de la historia, los formatos (verbal y no verbal) y los canales en los que se produce la comunicación se han ido ajustando a los fines para los que se comunica, aunque el propósito fundamental continúa siendo el de transmitir ideas de un emisor a un receptor con una intención determinada.
-
+    
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-8
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
@@ -91,7 +91,10 @@
           br
           |Con la idea de facilitar la comprensión entre los distintos aspectos que involucran un tema tan extenso como el diseño gráfico, se opta por diferenciar entre los aspectos conceptuales y los prácticos; los conceptuales se tratarán como los fundamentos, ya que permiten una perspectiva más global de los productos diseñados: la composición, el color, y las leyes del diseño. Los aspectos técnicos se definirán como los elementos más adelante.
       .col-md-6: img(src='@/assets/curso/img8.jpg', alt='Texto que describa la imagen')(data-aos="zoom-in-up")
-    h3 a. La composición
+    .titulo-sexto.color-primario
+      h4.mb-0
+        spam.bg--1.p-1
+          | a. La composición
     p.mb-5 Puede interpretarse como la conceptualización primera que da origen al diseño, entendiendo éste como un producto con un fin determinado.  
       br
       br
@@ -182,7 +185,10 @@
               p También conocida como el número áureo o la divina proporción, corresponde al número 1.618. Este número surge de la Sucesión de Fibonacci, en la que cada número es la suma de los dos anteriores y que se relaciona con la belleza o la naturaleza, y se ha  utilizado en arte y pintura por generaciones. El uso de este principio garantiza una proporción más armoniosa y más agradable al ojo.
 
     p.mb-5 Cada uno de los principios anteriores tiene su propia relevancia en la composición, y se estudian con el objetivo de que, usados en conjunto, consigan transmitir con éxito el mensaje acordado.
-    h3 b. La teoría del color
+    .titulo-sexto.color-primario
+      h4.mb-0
+        spam.bg--1.p-1
+          | b. La teoría del color
     p.mb-5 Para hablar de color es necesario primero hablar sobre percepción, puesto que el color en sí no existe. Se trata de un atributo de los objetos que solo es apreciable cuando hay luz, y que se genera como resultado de la diferencia de percepción del ojo a distintas longitudes de onda. Este fenómeno se conoce como “espectro" de la luz blanca.
     .row.mb-5(data-aos="slide-down")
       .col-md-6
@@ -384,7 +390,10 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/L2Q2_d4TyVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Las reglas para combinar los colores de forma efectiva
-    h3 c. Leyes del diseño gráfico
+    .titulo-sexto.color-primario
+      h4.mb-0
+        spam.bg--1.p-1
+          | c. Leyes del diseño gráfico
     p.mb-5 Otro aspecto conceptual del diseño son las denominadas leyes o reglas que se aplican al diseño y la composición. Estas leyes resultan de diversos estudios sobre la percepción y psicología humana.
     TabsA.color-acento-contenido.mb-5
       .tarjeta.bg--1-claro.p-4(titulo="Ley de tercios")
@@ -688,7 +697,7 @@
               |tiene la misión de enlazar al usuario con el mundo informativo de manera eficaz y agradable. La hipermedia permite, además de tener acceso a la información, satisfacer los requerimientos y gustos de millones de navegantes. Por lo tanto, es primordial tener un criterio de diseño antes de crear un sitio.
             span (Bustos, p. 29).
     p.mb-5 Es común confundir los términos diseño <i>web</i> y desarrollo <i>web</i>, pero ambos tienen propósitos distintos, aunque estén profundamente entrelazados.
-    .bg--1-claro.px-4.py-4.rounded.mb-5(data-aos="flip-up")
+    .bg--1-claro2.px-4.py-4.rounded.mb-5(data-aos="flip-up")
       .row.align-items-center 
         .col-lg-3: img(src='@/assets/curso/img33.svg')
         .col-lg-9 
@@ -699,7 +708,7 @@
             |En la parte del cliente estaríamos hablando de HTML y CSS, código básico para creación de páginas <i>web</i>, y JavaScript y DOM, para la interacción con el usuario. En la parte del servidor se trabaja con código más complejo, como es PHP, ASP.NET, JSP, etc. Con este código se construye el <i>back-end</i>, la parte de la <i>web</i> que el usuario no ve. Su objetivo es el diseño de bases de datos y asegurar la seguridad de la <i>web</i>. Cuando ambas partes se comunican, se habla de programación cliente-servidor. Esta comunicación permite la interacción del usuario con los contenidos alojados en bases de datos, el registro de nuevo contenido y de cuentas de usuario. (Barba, p. 8). 
     p.mb-5 A la hora de diseñar un sitio <i>web</i> se debe tener en cuenta los principios clave para que el usuario al que está dirigido pueda realizar todas las actividades o procesos dispuestos por el diseñador de la <i>web</i> en cuestión. A continuación, se exponen los tres aspectos que se deben tener en cuenta en el diseño <i>web</i> y a los cuales se les conoce como los 
       b principios de diseño <i>web</i>.
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg--gris2")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg--gris4")
       .row(titulo="Navegabilidad").px-5
         .col-md-7.mb-4.mb-md-0
           p Es la forma en la que el usuario puede desplazarse por un sitio <i>web</i>, partiendo de la facilidad con que puede realizar las acciones que tiene como objetivo la página. 
@@ -720,7 +729,7 @@
         .col-md-5
           figure
             img(src='@/assets/curso/img37.svg', alt='Texto que describa la imagen')
-      .row(titulo="Usabilidad").px-5
+      .row(titulo="Usabilidad").bg-adorno.px-5
         .col-md-12.mb-4.mb-md-0
           p Uno de los investigadores más importantes en este campo a nivel mundial, apoya la idea de la usabilidad como signo de calidad en un sitio web y la define como “todos aquellos procedimientos que persiguen mejorar la facilidad de uso para el usuario durante el proceso de navegación'' (Nielsen, 2003). También señala que entre las diversas dimensiones que determinan la usabilidad debe destacarse, por su importancia, la orientación al usuario.
             br
@@ -753,7 +762,10 @@
           ModalA(:abrir-modal.sync="modal1")
             figure
               img(src='@/assets/curso/img35.png', alt='Texto que describa la imagen')
-    h3 Arquitectura <i>web</i>
+    .titulo-sexto.color-primario
+      h4.mb-0
+        spam.bg--1.p-1
+          | Arquitectura <i>web</i>
     p.mb-5 El diseño y la arquitectura de información de las páginas <i>web</i> son “el resultado de la actividad de clasificar, describir, estructurar y etiquetar los contenidos del sitio”. (Leyva, Alarcón, Barrera & Ortegón, 2017).
       br
       br
@@ -909,7 +921,7 @@
             b Herramientas de diseño. 
             | Visita la siguiente página y estudia las 10 herramientas fundamentales para el diseñador digital. 
     .row.mb-5
-      .col-lg-4.align-items-center.d-flex.mb-md-5: img(src='@/assets/curso/img51.png')
+      .col-lg-4.align-items-center.d-flex.mb-md-5: img(src='@/assets/curso/img51.svg')
       .col-lg-8
         p.mb-4 Igualmente, otros <i>softwares</i> usados para el diseño gráfico digital son:
         .row.justify-content-center
@@ -1022,9 +1034,9 @@ export default {
     background-color: $color-secundario
 .vineta
   position: relative
-  background-color: #EDFFD2
+  background-color: #BFEFFC
   border-radius: 20px
-  border: 4px solid #7E9EA1
+  border: 4px solid #8ECAE4
   bottom: 0
   &:after
     content: ""
@@ -1077,4 +1089,9 @@ export default {
   .vineta_fondo
     background-size: 100% 30%
     background-position: center bottom
+.bg-adorno
+  background-image: url('../assets/curso/img144.svg')
+  background-size: auto
+  background-position: center
+  background-repeat: no-repeat
 </style>

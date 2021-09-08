@@ -1,13 +1,15 @@
-<svg id="Grupo_58511" data-name="Grupo 58511" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.124" height="42.508" viewBox="0 0 63.124 42.508">
+<svg id="Grupo_58414" data-name="Grupo 58414" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.124" height="42.508" viewBox="0 0 63.124 42.508">
   <defs>
     <linearGradient id="linear-gradient" x1="0.672" y1="-0.162" x2="0.285" y2="1.102" gradientUnits="objectBoundingBox">
-      <stop offset="0.354" stop-color="#bef6f4"/>
-      <stop offset="0.504" stop-color="#3ae4df"/>
-      <stop offset="0.642" stop-color="#00afc9"/>
+      <stop offset="0" stop-color="#ffcbfd"/>
+      <stop offset="0.354" stop-color="#ea71e6"/>
+      <stop offset="0.504" stop-color="#e041e4"/>
+      <stop offset="0.642" stop-color="#a914af"/>
+      <stop offset="1" stop-color="#b811be"/>
     </linearGradient>
     <linearGradient id="linear-gradient-2" x1="0.779" y1="-0.203" x2="0.306" y2="0.827" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#84eeeb"/>
-      <stop offset="1" stop-color="#3ae4df"/>
+      <stop offset="0" stop-color="#fc8a8e"/>
+      <stop offset="1" stop-color="#fa575d"/>
     </linearGradient>
   </defs>
   <path id="Trazado_105286" data-name="Trazado 105286" d="M-214.193,448.871h50.087a6.519,6.519,0,0,1,6.519,6.519v20.887a6.519,6.519,0,0,1-6.519,6.519h-5.286v8.584l-7.966-8.584h-36.834a6.519,6.519,0,0,1-6.519-6.519V455.39A6.519,6.519,0,0,1-214.193,448.871Z" transform="translate(220.712 -448.871)" fill="url(#linear-gradient)"/>

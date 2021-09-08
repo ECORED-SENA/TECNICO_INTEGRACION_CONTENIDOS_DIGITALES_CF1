@@ -89,7 +89,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/img71.svg' alt='Imagen')
+              img(src='@/assets/curso/img72.svg' alt='Imagen')
       .py-4.py-md-5(titulo="Género docudrama" :icono="require('@/assets/curso/img67.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
@@ -98,7 +98,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/img72.svg' alt='Imagen')
+              img(src='@/assets/curso/img73.svg' alt='Imagen')
       .py-4.py-md-5(titulo="Género informativo " :icono="require('@/assets/curso/img68.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
@@ -107,7 +107,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/img73.svg' alt='Imagen')
+              img(src='@/assets/curso/img71.svg' alt='Imagen')
       .py-4.py-md-5(titulo="Género de entretenimiento" :icono="require('@/assets/curso/img69.svg')")
         .row
           .col-md-6.mb-4.mb-md-0
