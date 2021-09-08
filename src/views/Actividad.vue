@@ -20,13 +20,6 @@
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
-
-
-.titulo-sexto.color-primario
-      h4.mb-0
-        spam.bg--1.p-1
-          |
-
 </template>
 
 <script>
