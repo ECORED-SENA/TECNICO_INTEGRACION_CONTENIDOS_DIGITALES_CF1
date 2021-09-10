@@ -19,7 +19,7 @@
       br
       br
       |Aunque existen muchos tipos, cualquier producción audiovisual debería contar al menos con dos tipos de ellos, previos al día de grabación, ya que permite minimizar el desperdicio de presupuesto y tiempo. 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg--gris3")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg--gris5")
       .row(titulo="Guion cinematográfico")
         .col-md-3
           figure
@@ -89,6 +89,7 @@
             br
             br
             |Es el guion mínimo que se debería utilizar para cualquier producción audiovisual, por pequeña que sea esta. Es importante que se prevea la idea inicial de la escaleta y su desarrollo como un proceso unitario, con una coherencia de principio a fin.   
+    Separador
     #t_3_1.titulo-segundo
       h2 3.1 <i>Storyboard</i> o guion gráfico
     p.mb-5 Es un documento en el que se organiza secuencialmente una serie de ilustraciones o imágenes con el fin de explicar una narrativa audiovisual. Suele usarse como parte de la planificación pues aquí cada escena y plano ya está establecido y por tanto facilita el proceso de producción. Cada imagen o cuadro va acompañado de un texto descriptivo de lo que sucede en esa imagen.

@@ -18,6 +18,7 @@
         .col-lg-2: img(src='@/assets/curso/img101.svg')
         .col-lg-10
           p Debemos recordar que la estrategia digital es tanto un concepto como una cosa, es decir, una estrategia digital debería eventualmente conducir a la creación de un plan concreto y una hoja de ruta. Si bien puede seguir cambiando durante el proceso que ha decidido seguir, también debe haber un compromiso claro con lo que significa  digitalizar la  empresa.
+    Separador
     #t_5_1.titulo-segundo
       h2 5.1 <i>Marketing</i> digital
     p.mb-5 Se ha convertido en una herramienta eficaz y un facilitador de procesos para el comercio nacional e internacional. Junto a nuevas y diversas técnicas se pueden idear modelos de negocios y estrategias orientadas a detectar nuevas oportunidades en los mercados globales, para lo cual se exige que las empresas desarrollen formas  de comunicación  que se integren a un plan de <i>marketing</i>. De esta manera, las empresas logran segmentar tanto sus mercados, que llegan a conocer los medios sociales que se utilizan en cada país. Los profesionales del <i>marketing</i> digital consideran que, si un producto o servicio no se encuentra en <i>Internet</i>, simplemente no existe.
@@ -34,15 +35,20 @@
       .col-lg-6
         .cajon.color-primario.bg--1-claro.p-5.mb-4
           h5.mb-0 Este contenido que se visualiza en los distintos canales digitales es el resultado de toda una estrategia estructurada de una marca. 
+    Separador
     #t_5_2.titulo-segundo
       h2 5.2 Plan de medios digitales
     .row.mb-5
       .col-lg-6: img(src='@/assets/curso/img103.jpg')(data-aos="zoom-in-up").mb-5
       .col-lg-6
-        p El Plan Estratégico de <i>Marketing</i> Digital, es un documento en el cual se estudia el proyecto a profundidad, se analiza qué está pasando en la actualidad, la competencia y modelos de negocio similares y los objetivos que queremos alcanzar, con todo ello, se realiza un plan de acción para que, a través de los distintos canales y estrategias de <i>marketing</i> digitales (redes sociales, buscadores, <i>email</i>...), se consigan los objetivos propuestos.
+        p El Plan Estratégico de <i>Marketing</i> Digital, 
+          b es un documento en el cual se estudia el proyecto a profundidad, se analiza qué está pasando en la actualidad, la competencia y modelos de negocio similares y los objetivos que queremos alcanzar
+          |, con todo ello, se realiza un plan de acción para que, a través de los distintos canales y estrategias de <i>marketing</i> digitales (redes sociales, buscadores, <i>email</i>...), se consigan los objetivos propuestos.
           br
           br
-          |Antes de comenzar con las estrategias de cada uno de los canales digitales que se van a utilizar para promocionar un proyecto, se debe hacer estudio a profundidad del contexto actual, la situación externa de la economía y del sector, como de la situación al interior de la empresa de nuestro cliente, contando con la mayor información posible para poder hacer un análisis completo y tomar las mejores decisiones dentro de la estrategia digital. A continuación, se explica brevemente cada uno de los tipos de análisis que se deben realizar y tener en cuenta en un plan de medios.
+          |Antes de comenzar con las estrategias de cada uno de los canales digitales que se van a utilizar para promocionar un proyecto, 
+          b se debe hacer estudio a profundidad del contexto actual, la situación externa de la economía y del sector, como de la situación al interior de la empresa de nuestro cliente, 
+          | contando con la mayor información posible para poder hacer un análisis completo y tomar las mejores decisiones dentro de la estrategia digital. A continuación, se explica brevemente cada uno de los tipos de análisis que se deben realizar y tener en cuenta en un plan de medios.
     .titulo-sexto.color-acento-contenido
       h5.fw-normal 
         b Figura 10 

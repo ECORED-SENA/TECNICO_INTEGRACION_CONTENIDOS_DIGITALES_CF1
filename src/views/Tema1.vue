@@ -21,6 +21,7 @@
         .cajon.color-acento-contenido.bg--gris.p-4.mb-4
           p.mb-0 Como está relacionado con tantas áreas, el diseño podría definirse como  
             b toda acción creadora que persigue una  finalidad.
+    Separador
     #t_1_1.titulo-segundo
       h2 1.1 Diseño gráfico
     p.mb-5 El desarrollo del diseño gráfico como campo creativo específico, puede entenderse estudiando su trayectoria a lo largo de la historia. 
@@ -390,6 +391,8 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/L2Q2_d4TyVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Las reglas para combinar los colores de forma efectiva
+    br
+    br
     .titulo-sexto.color-primario
       h4.mb-0
         spam.bg--1.p-1
@@ -639,7 +642,7 @@
             br
             br
             |Para la selección de tipografías existentes hay algunos servicios como Google Font, Type Kit de Adobe, Typography y Creative Market. En todos ellos se pueden encontrar tipografías gratuitas o con licencias de pago.
-
+    Separador
     #t_1_2.titulo-segundo
       h2 1.2 Diseño digital
     p.mb-5 Al ser un área relativamente reciente, las definiciones de este tipo de diseño pueden provenir de diferentes perspectivas, lo que dificulta ofrecer una definición ampliamente consensuada.
@@ -649,7 +652,8 @@
         ul.lista-ul
           li 
             i.fas.fa-angle-right
-            | Puede decirse que, con respecto al diseño gráfico tradicional, el diseño digital nació y se desarrolló para ser usado en la virtualidad de Internet y las aplicaciones digitales. Aun así, esta frase puede dejar por fuera los diseños que se realizan bajo programas informáticos, pero son para el mundo “real”.
+            p Puede decirse que, con respecto al diseño gráfico tradicional, el diseño digital nació y se desarrolló para ser usado en la virtualidad de Internet y las aplicaciones digitales. Aun así, esta frase puede dejar por fuera los diseños que se realizan bajo programas informáticos, pero son para el mundo 
+              b “real”.
     hr
     .row.mb-5 
       .col-lg-2.col-md-3.col-sm-4.col-xs-6: img(src='@/assets/curso/img31.svg' style='width:105px').m-auto
@@ -672,7 +676,9 @@
             p Igualmente se puede designar como diseño digital el enfoque que se encarga de dar solución a problemas reales entre la interacción de las personas y la presencia digital de las empresas (páginas 
               span.fst-italic <i>web</i>
               |).
-    p.mb-5 Por tanto, la definición que mejor se ajusta a los contenidos formativos del programa tecnológico “Técnico en integración de contenidos digitales” es la siguiente:
+    p.mb-5 Por tanto, la definición que mejor se ajusta a los contenidos formativos del programa tecnológico 
+      b “Técnico en integración de contenidos digitales” 
+      |es la siguiente:
     .row.justify-content-center.mb-5(data-aos="slide-down")
       .col-lg-8
         .cajon.color-primario.bg--1-claro.p-4.mb-4
@@ -685,11 +691,13 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/4nRHvBi9afc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Introducción al Diseño Digital  
+    br
+    br
     h3 El diseño <i>web</i>
     p.mb-5 Es un área del diseño digital que se encarga de desarrollar interfaces digitales, sitios y aplicaciones <i>web</i>, utilizando lenguajes específicos como HTML.
     .row.mb-5.justify-content-center(data-aos="slide-down")
       .col-lg-8
-        .bloque-texto-c.color-primario.bg--1-claro.p-4
+        .bloque-texto-c.color-primario.azul--1.p-4
           i.fas.fa-quote-right
           .px-5
             .h5.mb-2 El diseñador 
@@ -901,7 +909,7 @@
         .cajon.color-primario.bg--1-claro.p-4
           p El diseño de contenidos es un planteamiento que comienza con la identificación de la necesidad del usuario para crear un conjunto de textos y elementos visuales que proporcionen una solución del mejor modo posible. El diseño de contenidos piensa más en grande y no se limita solo a la escritura de contenidos útiles y funcionales, sino que identifica la mejor manera de presentarlos para satisfacer las expectativas y necesidades del usuario, ya sea mediante una infografía, un video, un gráfico, un folleto o un artículo.
       .col-lg-6: img(src='@/assets/curso/img49.jpg')
-    h3 Software y herramientas de diseño digital
+    h3 <i>Software</i> y herramientas de diseño digital
     p.mb-5 Las herramientas de diseño son elementos, formatos, medios o programas de computador que se pueden usar para diseñar. Pueden influir en el proceso de producción, expresión y percepción de las ideas de diseño y, por lo tanto, deben aplicarse con habilidad. 
     .row.mb-5.justify-content-center
       .col-lg-8
@@ -921,7 +929,7 @@
             b Herramientas de diseño. 
             | Visita la siguiente página y estudia las 10 herramientas fundamentales para el diseñador digital. 
     .row.mb-5
-      .col-lg-4.align-items-center.d-flex.mb-md-5: img(src='@/assets/curso/img51.svg')
+      .col-lg-4.align-items-center.d-flex.mb-5.mb-lg-0: img(src='@/assets/curso/img51.svg')
       .col-lg-8
         p.mb-4 Igualmente, otros <i>softwares</i> usados para el diseño gráfico digital son:
         .row.justify-content-center

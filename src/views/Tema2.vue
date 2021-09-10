@@ -67,7 +67,10 @@
         p Ahora bien, cuando se habla de géneros en el medio audiovisual, normalmente se refiere a la ficción, al publicitario, el docudrama, el informativo y el de entretenimiento. 
           br
           br
-          |El formato es la manera de aplicar el género. Cuando se determina el género se debe también decidir el tipo de formato que más le convenga al contenido audiovisual; es aquí cuando se elige entre una docuserie, un <i>reality show</i>, un reportaje, o la tradicional novela, entre otros formatos, que nacen con las nuevas necesidades actuales del consumidor. 
+          |El formato es la manera de aplicar el género. Cuando se determina el género se debe también decidir el tipo de formato que más le 
+          span.azul--3 
+            |convenga al contenido audiovisual; es aquí cuando se elige entre una docuserie, un <i>reality show</i>, un reportaje, o la 
+          |tradicional novela, entre otros formatos, que nacen con las nuevas necesidades actuales del consumidor. 
           br
           br
           |La industria audiovisual actual se desarrolla a una velocidad sin igual y, atendiendo a la demanda de la audiencia, crea y se reinventa con nuevos productos híbridos que deben irse incorporando por los nuevos estudios del lenguaje audiovisual, sin embargo  aquí se presenta una breve clasificación de ellos.
@@ -124,31 +127,31 @@
           | Formatos audiovisuales para <i>Internet</i>
     .row.mb-5(data-aos="slide-down")
       .col-lg-6
-        .tarjeta.bg--gris3.p-4.mb-3
+        .tarjeta.azul--2.p-4.mb-3
           .row
             .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img75.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 Videos: 
               p.mb-0 Según informe de Cisco, ya son el formato de contenido más consumido de <i>Internet</i> y serán aún más. Hasta 2021, la expectativa es que representan el 82% del tráfico global.
-        .tarjeta.bg--gris3.p-4.mb-3
+        .tarjeta.azul--2.p-4.mb-3
           .row
             .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img76.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 <i>Webinars:</i> 
               p.mb-0 Son conferencias, charlas o <i>chats</i> realizados <i>online</i> y en directo para un grupo de espectadores virtuales. 
-        .tarjeta.bg--gris3.p-4.mb-3
+        .tarjeta.azul--2.p-4.mb-3
           .row
             .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img77.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 <i>Gifs</i> animados: 
               p.mb-0 Se utilizan para el humor, pero, a diferencia de los memes, pueden pasar más información valiosa.
-        .tarjeta.bg--gris3.p-4.mb-3
+        .tarjeta.azul--2.p-4.mb-3
           .row
             .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img78.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 <i>Slides:</i>
               p.mb-0 Útiles para presentación en eventos, en <i>Slideshare</i> o en <i>webinars</i>.
-        .tarjeta.bg--gris3.p-4.mb-3
+        .tarjeta.azul--2.p-4.mb-3
           .row
             .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img79.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
@@ -156,25 +159,25 @@
               p.mb-0 Es el formato más utilizado en la historia de la publicidad y del <i>marketing</i>. Obviamente, no estamos hablando de largometrajes, sino de los viejos, queridos y actuales comerciales.
 
       .col-lg-6
-        .tarjeta.bg--gris3.p-4.mb-3
+        .tarjeta.azul--2.p-4.mb-3
           .row
             .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img80.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 <i>Blogsposts</i>:
               p.mb-0 Este es el formato más utilizado en las estrategias da producción de contenido que buscan <i>engagement</i>.
-        .tarjeta.bg--gris3.p-4.mb-3
+        .tarjeta.azul--2.p-4.mb-3
           .row
             .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img81.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 Memes en video:
               p.mb-0 Son formatos más simples y que difícilmente educan al mercado o convencen a alguien a una conversión.
-        .tarjeta.bg--gris3.p-4.mb-3
+        .tarjeta.azul--2.p-4.mb-3
           .row
             .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img82.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 Aplicaciones: 
               p.mb-0 Herramientas que pretenden facilitar la vida de los usuarios.
-        .tarjeta.bg--gris3.p-4.mb-3
+        .tarjeta.azul--2.p-4.mb-3
           .row
             .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img83.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
