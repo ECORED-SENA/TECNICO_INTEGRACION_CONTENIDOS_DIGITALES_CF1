@@ -1034,9 +1034,9 @@ export default {
     background-color: $color-secundario
 .vineta
   position: relative
-  background-color: #BFEFFC
+  background-color: #DEF6FD
   border-radius: 20px
-  border: 4px solid #8ECAE4
+  border: 4px solid #C6E4F1
   bottom: 0
   &:after
     content: ""
@@ -1080,7 +1080,7 @@ export default {
     border-radius: 0px 20px 20px 0px
     background-color: $color-primario
 .color-verde
-  background-color: $color-secundario
+  background-color: #DFF7FD
 @media (max-width: 992px)
   .vineta_fondo
     background-size: 150% 30%
