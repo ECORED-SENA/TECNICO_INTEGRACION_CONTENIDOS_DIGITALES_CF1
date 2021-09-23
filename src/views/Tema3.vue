@@ -28,7 +28,7 @@
           p Dependiendo del ámbito de trabajo también se pueden llamar <i>screenplay, script o teleplay</i>. Este tipo de guion expresa en palabras como será el trabajo audiovisual resultante. Debido a su importancia debe ser muy detallado. Al finalizarlo sirve para negociar lo que se acabará haciendo cuando las diversas partes de la producción tienen ideas diferentes sobre cómo llevar a término el proyecto. 
             br
             br
-            |Las siguientes imágenes permiten apreciar la diferencia entre guion cinematográfico y el guión literario.
+            |Las siguientes imágenes permiten apreciar la diferencia entre guion cinematográfico y el guion literario.
           .row
             .col-md-6 
               a.boton.color-acento-botones.mb-5.indicador__container.rounded-pill(@click="modal1 = true")

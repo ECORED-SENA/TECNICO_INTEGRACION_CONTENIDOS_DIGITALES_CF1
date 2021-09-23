@@ -67,10 +67,7 @@
         p Ahora bien, cuando se habla de géneros en el medio audiovisual, normalmente se refiere a la ficción, al publicitario, el docudrama, el informativo y el de entretenimiento. 
           br
           br
-          |El formato es la manera de aplicar el género. Cuando se determina el género se debe también decidir el tipo de formato que más le 
-          span.azul--3 
-            |convenga al contenido audiovisual; es aquí cuando se elige entre una docuserie, un <i>reality show</i>, un reportaje, o la 
-          |tradicional novela, entre otros formatos, que nacen con las nuevas necesidades actuales del consumidor. 
+          |El formato es la manera de aplicar el género. Cuando se determina el género se debe también decidir el tipo de formato que más le convenga al contenido audiovisual; es aquí cuando se elige entre una docuserie, un <i>reality show</i>, un reportaje, o la tradicional novela, entre otros formatos, que nacen con las nuevas necesidades actuales del consumidor. 
           br
           br
           |La industria audiovisual actual se desarrolla a una velocidad sin igual y, atendiendo a la demanda de la audiencia, crea y se reinventa con nuevos productos híbridos que deben irse incorporando por los nuevos estudios del lenguaje audiovisual, sin embargo  aquí se presenta una breve clasificación de ellos.
@@ -164,7 +161,7 @@
             .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img80.svg')
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
               h4 <i>Blogsposts</i>:
-              p.mb-0 Este es el formato más utilizado en las estrategias da producción de contenido que buscan <i>engagement</i>.
+              p.mb-0 Este es el formato más utilizado en las estrategias de producción de contenido que buscan <i>engagement</i>.
         .tarjeta.azul--2.p-4.mb-3
           .row
             .col-lg-2.col-md-3.col-sm-4.col-xs-6.mb-4: img(src='@/assets/curso/img81.svg')
