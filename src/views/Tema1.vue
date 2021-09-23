@@ -32,7 +32,7 @@
             figure
               img(src='@/assets/curso/img1.jpg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0.mt-4
-            p La comunicación gráfica, que ha acompañado al hombre desde hace mucho tiempo, se remonta a la época de las pinturas rupestres. Al comienzo sólo fueron trazos en las cavernas de la prehistoria, con algún tipo de significado religioso. 
+            p La comunicación gráfica, que ha acompañado al hombre desde hace mucho tiempo, se remonta a la época de las pinturas rupestres. Al comienzo solo fueron trazos en las cavernas de la prehistoria, con algún tipo de significado religioso. 
 
         .row(titulo="Antiguo Egipto").justify-content-center.align-items-center
           .col-md-4
@@ -72,7 +72,7 @@
               |La Bauhaus combinaba diseño, arte y arquitectura, estudiaba la forma, el color, los materiales, la composición y el espacio influenciados por el constructivismo. Finalmente, la escuela cierra sus puertas en Berlín en 1933 (p. 15).                                                                                                      
               br
               br
-              |Mientras en Alemania se desarrollaba la Bauhaus, en Francia aparecía el movimiento “Art decó”, que se dio a conocer en la exposición internacional de las artes decorativas e industriales modernas de 1925. 
+              |Mientras en Alemania se desarrollaba la Bauhaus, en Francia aparecía el movimiento <i>“Art déco”</i>, que se dio a conocer en la exposición internacional de las artes decorativas e industriales modernas de 1925. 
 
         .row(titulo="La época del diseño (1940)").justify-content-center.align-items-center
           .col-md-4
@@ -96,7 +96,7 @@
       h4.mb-0
         spam.bg--1.p-1
           | a. La composición
-    p.mb-5 Puede interpretarse como la conceptualización primera que da origen al diseño, entendiendo éste como un producto con un fin determinado.  
+    p.mb-5 Puede interpretarse como la conceptualización primera que da origen al diseño, entendiendo este como un producto con un fin determinado.  
       br
       br
       |Se refiere a la organización o disposición de elementos dentro del espacio visual, con el objeto de construir una imagen que transmita una idea de manera sencilla y directa a un público objetivo. La composición define la relación entre el tamaño, texturas, colores, pesos, la escala, cantidades y todos los elementos que se incluyan.
@@ -574,7 +574,7 @@
           .row
             .col-md-9.mb-4.mb-md-0
               h3 La tipografía
-              p El uso de letras o palabras es una de las formas más directas de comunicar visualmente y por tanto, es uno de los elementos visuales más usados en diseño gráfico. La tipografía no sólo es importante porque pueda comunicar palabras, sino también porque su estilo y disposición en el diseño contribuye a dar significado a la composición. Un carácter tipográfico está formado por la combinación de formas geométricas y orgánicas, que resultan en una nueva forma.
+              p El uso de letras o palabras es una de las formas más directas de comunicar visualmente y por tanto, es uno de los elementos visuales más usados en diseño gráfico. La tipografía no solo es importante porque pueda comunicar palabras, sino también porque su estilo y disposición en el diseño contribuye a dar significado a la composición. Un carácter tipográfico está formado por la combinación de formas geométricas y orgánicas, que resultan en una nueva forma.
             .col-md-3
               figure
                 img(src='@/assets/curso/img23.svg', alt='Texto que describa la imagen ' style='width: 120px').m-auto
@@ -889,7 +889,7 @@
             .col-lg-2.col-md-3.col-sm-4.col-xs-6
               img(src='@/assets/curso/img48.svg' style='width: 150px').m-auto
             .col-lg-10.col-md-9.col-sm-8.col-xs-6
-              p.mb-0 La UX como concepto integrador abarca todos los aspectos de la interacción entre el usuario final y la compañía, sus servicios y productos. En ella sobresale el análisis de la experiencia de interacción no sólo como fenómeno interactivo entre usuario y producto, sino también entre usuario y proveedor. Asimismo, el primer requisito para una UX ejemplar es encontrar las necesidades exactas del cliente. Después vienen la sencillez y la elegancia que generan los productos fáciles de usar. La verdadera experiencia del usuario va mucho más allá de dar a los clientes lo que ellos dicen que quieren o proporcionar una lista de verificación. A fin de alcanzar la UX de alta calidad en la oferta de una empresa, debe haber una fusión sin fisuras de los servicios de múltiples disciplinas, incluyendo la ingeniería, el marketing, el diseño gráfico e industrial y el diseño de interfaz.
+              p.mb-0 La UX como concepto integrador abarca todos los aspectos de la interacción entre el usuario final y la compañía, sus servicios y productos. En ella sobresale el análisis de la experiencia de interacción no solo como fenómeno interactivo entre usuario y producto, sino también entre usuario y proveedor. Asimismo, el primer requisito para una UX ejemplar es encontrar las necesidades exactas del cliente. Después vienen la sencillez y la elegancia que generan los productos fáciles de usar. La verdadera experiencia del usuario va mucho más allá de dar a los clientes lo que ellos dicen que quieren o proporcionar una lista de verificación. A fin de alcanzar la UX de alta calidad en la oferta de una empresa, debe haber una fusión sin fisuras de los servicios de múltiples disciplinas, incluyendo la ingeniería, el marketing, el diseño gráfico e industrial y el diseño de interfaz.
     p.mb-5 Para crear una buena experiencia al usuario, el diseñador debe comprenderla y diseñarla de principio a fin, y no solo desde el aspecto estético y funcional, sino también desde la psicología cognitiva y las necesidades del usuario, al igual que desde los requerimientos del negocio. Los pensamientos de los clientes sobre un producto y/o servicio suelen estar influenciados por las experiencias y sensaciones que tuvieron mientras lo usaban. 
       br
       br
