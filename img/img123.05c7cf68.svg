@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_5204" data-name="Rectángulo 5204" width="46" height="46" transform="translate(395 274)" fill="#ffc935"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_45" data-name="Enmascarar grupo 45" transform="translate(-395 -274)" clip-path="url(#clip-path)">
+    <g id="alineacion-de-objetos" transform="translate(395 274)">
+      <path id="Trazado_100539" data-name="Trazado 100539" d="M44.652,2.785H1.348a1.348,1.348,0,0,0,0,2.7h43.3a1.348,1.348,0,0,0,0-2.7Z" fill="#384949"/>
+      <path id="Trazado_100540" data-name="Trazado 100540" d="M39.262,27.043A1.347,1.347,0,0,0,40.609,25.7V9.523a1.347,1.347,0,0,0-1.348-1.348H28.48a1.347,1.347,0,0,0-1.348,1.348V25.7a1.347,1.347,0,0,0,1.348,1.348Z" fill="#7c75da"/>
+      <path id="Trazado_100541" data-name="Trazado 100541" d="M17.7,43.215a1.347,1.347,0,0,0,1.348-1.348V9.523A1.347,1.347,0,0,0,17.7,8.176H6.918A1.347,1.347,0,0,0,5.57,9.523V41.867a1.347,1.347,0,0,0,1.348,1.348Z" fill="#ff9f00"/>
+      <path id="Trazado_100542" data-name="Trazado 100542" d="M5.57,25.605V41.777a1.347,1.347,0,0,0,1.348,1.348H17.7a1.347,1.347,0,0,0,1.348-1.348V25.605Z" fill="#ff7816"/>
+      <path id="Trazado_100543" data-name="Trazado 100543" d="M27.133,17.609V25.7a1.347,1.347,0,0,0,1.348,1.348H39.262A1.347,1.347,0,0,0,40.609,25.7V17.609Z" fill="#615ad3"/>
+    </g>
+  </g>
+</svg>
