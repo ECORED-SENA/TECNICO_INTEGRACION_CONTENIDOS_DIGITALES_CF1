@@ -389,8 +389,7 @@
         | Para profundizar en el tema de las combinaciones, se sugiere ver el video.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/L2Q2_d4TyVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Las reglas para combinar los colores de forma efectiva
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/rlGfZoeO3Dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     br
     br
     .titulo-sexto.color-primario
